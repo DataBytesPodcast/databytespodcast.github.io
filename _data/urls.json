@@ -2,18 +2,18 @@
   {
     "text": "Home",
     "url": "/",
-    "icon": "fa-home",
+    "icon": "fa fa-home",
     "layout": "post"
   },
   {
     "text": "About",
     "url": "/about/",
-    "icon": "fa-broadcast-tower"
+    "icon": "fa fa-broadcast-tower"
   },
   {
     "text": "Contact",
     "url": "",
-    "icon": "fa-comment-dots",
+    "icon": "fa fa-comments-o",
     "target": _blank
   }
 ]
