@@ -13,7 +13,7 @@
   {
     "text": "Contact",
     "url": "",
-    "icon": "fa fa-comments-o",
+    "icon": "far fa-comment-dots",
     "target": _blank
   }
 ]
