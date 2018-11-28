@@ -3,13 +3,13 @@ layout: default
 title: 
 ---
 <div class="well">
+        <p>Welcome to the home of DataBytes, a podcast about statistics and data science. We are just getting started, but would welcome any and all feedback via the Contact link on the left menu.</p>
     <div class="list-group">
       {% for post in paginator.posts %}
       <div class="list-group-item">
         <div class="row-action-primary">
           <i class="fa fa-sticky-note"></i>
         </div>
-        <p>Welcome to the home of DataBytes, a podcast about statistics and data science. We are just getting started, but would welcome any and all feedback via the Contact link on the left menu.</p>
         <div class="row-content">
 
           <div class="least-content">{{ post.date | date_to_string }}</div>
