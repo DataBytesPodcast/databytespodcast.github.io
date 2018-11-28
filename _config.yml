@@ -10,8 +10,8 @@ allowsearch: false
 google_analytics: 
 
 share:
-  twitter_username: \#
-  fb_appid: 000000000000
+  twitter_username: 
+  fb_appid: 
 
 
 enableTags: true
