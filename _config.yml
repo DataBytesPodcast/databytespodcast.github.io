@@ -7,12 +7,13 @@ url: "https://databytespodcast.github.io"
 
 allowsearch: false
 
-google_analytics: 
+google_analytics: UA-130201304-1
 
 share:
   twitter_username: 
   fb_appid: 
 
+disqus_shortname: "databytes-podcast"
 
 enableTags: true
 tagarray: []
