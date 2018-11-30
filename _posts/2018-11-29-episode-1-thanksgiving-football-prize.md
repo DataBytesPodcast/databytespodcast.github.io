@@ -7,7 +7,7 @@ categories: episode
 
 The first episode of the DataBytes Podcast where we discuss popular topics related to data, statistics, data science, machine learning, artificial intelligence.  In this episode, we discuss Thanksgiving food, the College Football Playoff selection, and the winner of the International Prize in Statistics.
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/537519510&color=%2327a79c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/537519510&color=%2327a79c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ### Sources
 
