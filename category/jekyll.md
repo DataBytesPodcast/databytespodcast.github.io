@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: jekyll
-title: Jekyll
-permalink: /category/jekyll
+categories: episode
+title: Episode
+permalink: /category/episode
 ---
