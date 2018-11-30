@@ -2,7 +2,7 @@ title: DataBytes Podcast
 description: 
 author: 
 
-baseurl: "https://databytespodcast.github.io"
+baseurl: "/"
 url: "https://databytespodcast.github.io"
 
 allowsearch: false
@@ -17,6 +17,20 @@ disqus_shortname: "databytes-podcast"
 
 enableTags: true
 tagarray: []
+
+podcast_album_art: /static/img/podcast_Databytes.png
+podcast_title: DataBytes
+podcast_owner: Susan Wang
+podcast_email: xiaotianshi87@gmail.com
+podcast_category: Science & Medicine
+podcast_subcategory_one: Social Sciences
+podcast_subcategory_two: Natural Sciences
+podcast_explicit: "no"
+podcast_host: "https://databytes.podbean.com/mf/play/fwqctf/"
+podcast_author: Jessi Cisewski-Kehe and Susan Wang
+podcast_description: A discussion of topics related to data, statistics, data science, machine learning, artificial intelligence and where it fits into our daily lives. 
+podcast_summary: Data science, big data, artificial intelligence, machine learning... they're all the rage. In this podcast, Jessi Cisewski-Kehe and Susan Wang, 2 academic statisticians, give you a perspective on what's happening in the realm of all things data. Random bantering included.
+podcast_subtitle: A discussion of topics related to data, statistics, data science, machine learning, artificial intelligence and where it fits into our daily lives.
 
 paginate: 20
 per_page: 20
