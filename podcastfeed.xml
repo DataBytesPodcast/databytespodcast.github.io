@@ -63,7 +63,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </content:encoded>
 
     <enclosure url="{{ site.podcast_host }}{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
-    <itunes:subtitle>{{ ep.podcast_description | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}</itunes:subtitle>
+    <itunes:subtitle>{{ ep.podcast_description | strip_html | truncate: 250 | expand_urls: site.url | cdata_escape }}...</itunes:subtitle>
     <itunes:summary>{{ ep.podcast_description | expand_urls: site.url | cdata_escape }}</itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
