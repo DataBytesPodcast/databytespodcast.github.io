@@ -59,7 +59,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
     </description>
     <content:encoded>
-        <![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]>
+        <![CDATA[{{ ep.podcast_description | expand_urls: site.url | cdata_escape }}]]>
     </content:encoded>
 
     <enclosure url="{{ site.podcast_host }}{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />

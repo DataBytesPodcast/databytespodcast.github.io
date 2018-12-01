@@ -7,6 +7,7 @@ podcast_link: db1_28nov2018_v2.mp3
 podcast_file_size: 19.9 MB
 podcast_duration: "13:29"
 podcast_length: 19407197
+podcast_description: "The first episode of the DataBytes Podcast where we discuss popular topics related to data, statistics, data science, machine learning, artificial intelligence. In this episode, we discuss Thanksgiving food, the College Football Playoff selection, and the winner of the International Prize in Statistics."
 ---
 
 The first episode of the DataBytes Podcast where we discuss popular topics related to data, statistics, data science, machine learning, artificial intelligence.  In this episode, we discuss Thanksgiving food, the College Football Playoff selection, and the winner of the International Prize in Statistics.
