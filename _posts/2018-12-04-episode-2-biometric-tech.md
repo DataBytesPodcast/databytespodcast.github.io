@@ -12,7 +12,7 @@ podcast_description: "In this episode, we discuss biometric technology used at a
 
 In this episode, we discuss biometric technology used at airports, Google Smart Replies (and letting AI compose our emails/texts for us), and an analysis of New York Times Bestsellers list data.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/537519510&color=%2327a79c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/539954403&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ### Sources
 
