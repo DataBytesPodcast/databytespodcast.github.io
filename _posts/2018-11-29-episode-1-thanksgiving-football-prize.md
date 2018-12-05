@@ -3,7 +3,7 @@ layout: post
 title:  "Episode 1: Thanksgiving, College Football, International Prize in Statistics"
 date:   2018-11-29
 categories: episode
-podcast_link: db1_28nov2018_v2.mp3
+podcast_link: fwqctf/db1_28nov2018_v2.mp3
 podcast_file_size: 19.9 MB
 podcast_duration: "13:29"
 podcast_length: 19407197
