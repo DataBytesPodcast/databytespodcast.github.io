@@ -10,7 +10,7 @@ podcast_length: 38667411
 podcast_description: "This week, we learn about Jessi Cisewski-Kehe's background to find out how she went from a Math major to an actuarial analyst, then to grad school in statistics, followed by a three-year visiting assistant professor position at Carnegie Mellon where she got into Astrostatistics, and finally to her current position as an assistant professor at Yale."
 ---
 
-This week, we learn about Jessi Cisewski-Kehe's background to find out how she went from a Math major to an actuarial analyst, then to grad school in statistics, followed by a three-year visiting assistant professor position at Carnegie Mellon where she got into Astrostatistics, and finally to her current position as an assistant professor at Yale.
+This week, we learn about Jessi Cisewski-Kehe's background to find out how she went from a Math major to an actuarial analyst, then to grad school in statistics, followed by a three-year visiting assistant professor position at Carnegie Mellon where she got into Astrostatistics, and finally to her current position as an assistant professor at Yale. 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/547041969&color=%2327a79c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
