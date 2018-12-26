@@ -23,7 +23,7 @@ Data visualization is an integral pre-cursor to data analysis, providing a way t
 <li><b>Don't:</b> Use too many colors (see bad pie chart below).</li>
 <li><b>Don't:</b> Use smoothing procedures with more flexibility than you can accommodate with the number of observations that you have. (<a href="http://htmlpreview.github.io/?https://gist.githubusercontent.com/swang87/fe16a765308c101216f7614cbd4d38b0/raw/2d000ea1c803b7f70fea10a848af10ce83657090/databytes_smoothing.html">Example mentioned</a>)<br>
 <p>Here's another example taken from a Fitbit app screenshot.<br>
-<img src="static/img/ep5_fitbit.png"><br>
+<img src="/static/img/ep5_fitbit.png"><br>
 Note how despite an absence of data points between 2016 and 2018 (shown in the white line) does not prevent the app from interpolating with some parabolic spline in the region (blue curve). The blue curve fabricates an upward trend from 2016 to 2017 and then a downward trend from 2017 to 2018.</p></li>
 <li><b>Do:</b> Jitter scatterplots to minimize overplotting. Or use translucency features of your plotting tool. (<a href="https://python-graph-gallery.com/134-how-to-avoid-overplotting-with-python/">Fixing overplotting in Python</a> | <a href="https://towardsdatascience.com/overshadowing-the-other-points-the-overplotting-issue-e6d1ebbdef20">Fixing overplotting in R</a>)</li>
 <li><b>Do: </b>Sort your categorical variables (barplot categories based on heights or boxplot categories based on medians). (<a href="https://moderndive.com/C-appendixC.html">Example</a>)</li>
@@ -62,10 +62,14 @@ Now we present a list of some other truly horrific charts (that are not pie char
   <p>Pie charts aren't the only culprits. Here, the y-axis scale is deceiving.</p>
 </li>
 <li>
-<figure><img src="https://junkcharts.typepad.com/.a/6a00d8341e992c53ef01b8d2464d49970c-200wi" align="top" clear = "left">
+<div class="row">
+  <div class="col-sm-4"><figure><img src="https://junkcharts.typepad.com/.a/6a00d8341e992c53ef01b8d2464d49970c-200wi">
 <figcaption>Source: <a href="https://junkcharts.typepad.com/junk_charts/wsj/">Junk Charts</a></figcaption>
-</figure>
-<p>This plot, cut out of the Wall Street Journal, requires prolonged staring to realize how the bar lengths might possibly reflect any of the proportions provided. There's conditioning involved, in which case, a mosaicplot will probably do the data better justice, as suggested at the source website.</p>
+</figure></div>
+  <div class="col-sm-8"><p>This plot, cut out of the Wall Street Journal, requires prolonged staring to realize how the bar lengths might possibly reflect any of the proportions provided. There's conditioning involved, in which case, a mosaicplot will probably do the data better justice, as suggested at the source website.</p>
+</div>
+</div>
+
 
 </li>
 <li>
@@ -83,7 +87,7 @@ Finally, this discussion wouldn't be complete with some stellar examples of thou
 <figcaption>Source: <a href="https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/">Fivethirtyeight.com</a></figcaption></figure>
 <p>Ah, a plot of residuals (points per shot against expectations) to showcase the superiority of basketball players. Minor quibble: Not too sure why Curry, Thompson, Barnes, and Green have the same colors whereas other highlighted players are in different colors.</p>
 </li>
-<li><figure><img src="static/img/ep5_gapminder.png">
+<li><figure><img src="/static/img/ep5_gapminder.png">
 <figcaption>Source: <a href="https://s3-eu-west-1.amazonaws.com/static.gapminder.org/GapminderMedia/wp-uploads/20161215212516/countries_health_wealth_2016_v151.pdf">Gapminder</a>
 </figcaption></figure><p>Indeed, this example, from the late great Hans Rosling's organization, Gapminder, is an example of where arguably a lot of information is fit into a small space. However, this is one of those plots that is actually meant to encourage zooming in and taking a good look (the source link above will lead you to the full pdf image). Even in this shrunken view, the color-coding by region helps provide a big-picture look at the relationship between health and wealth of nations around the world. The sizes of the circles additionally showcase the population size of each nation.</p></li>
 </ol>
