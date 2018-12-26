@@ -7,11 +7,16 @@ title: Home
 </div>
 <div class="well">
     <div class="list-group">
+    {% assign curDate = site.time | date: '%s' %}
+
       {% for post in paginator.posts %}
+      {% assign postStartDate = post.date | date: '%s' %}
+      {% if postStartDate <= curDate %}
       <div class="list-group-item">
         <div class="row-action-primary">
           <i class="fas fa-podcast"></i>
         </div>
+
         <div class="row-content">
 
           <div class="least-content">{{ post.date | date_to_string }}</div>
@@ -21,6 +26,7 @@ title: Home
         </div>
       </div>
       <div class="list-group-separator"></div>
+       {% endif %}
       {% endfor %}
     </div>
    

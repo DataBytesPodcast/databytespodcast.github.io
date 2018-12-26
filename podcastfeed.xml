@@ -30,7 +30,11 @@ layout: null
 <itunes:category text="{{ site.podcast_subcategory_one }}" />
 <itunes:category text="{{ site.podcast_subcategory_two }}" />
 </itunes:category>
+{% assign curDate = site.time | date: '%s' %}
+
 {% for ep in site.categories.episode %}
+{% assign postStartDate = ep.date | date: '%s' %}
+{% if postStartDate <= curDate %}
   <item>
     <title>{{ ep.title }}</title>
     <link>{{ site.url }}{{ ep.url }}</link>
@@ -59,6 +63,7 @@ layout: null
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
     <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
   </item>
+  {% endif %}
 {% endfor %}
 </channel>
 </rss>
