@@ -23,13 +23,12 @@ Data visualization is an integral pre-cursor to data analysis, providing a way t
 <li><b>Don't:</b> Use too many colors (see bad pie chart below).</li>
 <li><b>Don't:</b> Use smoothing procedures with more flexibility than you can accommodate with the number of observations that you have.
 <div class="row">
-  <div class="col-sm-8">(<a href="http://htmlpreview.github.io/?https://gist.githubusercontent.com/swang87/fe16a765308c101216f7614cbd4d38b0/raw/2d000ea1c803b7f70fea10a848af10ce83657090/databytes_smoothing.html">Example mentioned</a>) <br>
-  <p>To the right, we show another example taken from a Fitbit app screenshot (from one of our co-hosts). Note how despite an absence of data points between 2016 and 2018 (shown in the white line) does not prevent the app from interpolating with some parabolic spline in the region (blue curve). The blue curve fabricates an upward trend from 2016 to 2017 and then a downward trend from 2017 to 2018.</p></div>
+  <div class="col-sm-8">
+  <p><a href="http://htmlpreview.github.io/?https://gist.githubusercontent.com/swang87/fe16a765308c101216f7614cbd4d38b0/raw/2d000ea1c803b7f70fea10a848af10ce83657090/databytes_smoothing.html">Example mentioned</a> in the podcast.</p>
+  <p>To the right, we show another example taken from a Fitbit app screenshot (from one of our co-hosts). Note how despite an absence of data points between 2016 and 2018 (shown in the white line) does not prevent the app from interpolating with some parabolic spline in the region (blue curve). The blue curve fabricates an upward trend from 2016 to 2017 and then a downward trend from 2017 to 2018. </p>
+  </div>
   <div class="col-sm-4"><img src="/static/img/ep5_fitbit.png" width="200"></div>
-</div>
-
-<br>
-</p></li>
+</div></li>
 <li><b>Do:</b> Jitter scatterplots to minimize overplotting. Or use translucency features of your plotting tool. (<a href="https://python-graph-gallery.com/134-how-to-avoid-overplotting-with-python/">Fixing overplotting in Python</a> | <a href="https://towardsdatascience.com/overshadowing-the-other-points-the-overplotting-issue-e6d1ebbdef20">Fixing overplotting in R</a>)</li>
 <li><b>Do: </b>Sort your categorical variables (barplot categories based on heights or boxplot categories based on medians). (<a href="https://moderndive.com/C-appendixC.html">Example</a>)</li>
 <li><b>Don't:</b> Use pie charts. More on that below!</li>
