@@ -21,10 +21,15 @@ Data visualization is an integral pre-cursor to data analysis, providing a way t
 <li><b>Do:</b> Report/show plots that tell you something interesting -- and then say why it is interesting in words. Maybe it uncovers an unusual feature of the data, or outliers, or it suggests some kind of underlying associations that warrant further investigation.</li>
 <li><b>Do:</b> Carefully choose how many bins to use in your histograms. Or use density plots. (<a href="https://statistics.laerd.com/statistical-guides/understanding-histograms.php">Example of how bin width choice matters</a>)</li>
 <li><b>Don't:</b> Use too many colors (see bad pie chart below).</li>
-<li><b>Don't:</b> Use smoothing procedures with more flexibility than you can accommodate with the number of observations that you have. (<a href="http://htmlpreview.github.io/?https://gist.githubusercontent.com/swang87/fe16a765308c101216f7614cbd4d38b0/raw/2d000ea1c803b7f70fea10a848af10ce83657090/databytes_smoothing.html">Example mentioned</a>)<br>
-<p>Here's another example taken from a Fitbit app screenshot.<br>
-<img src="/static/img/ep5_fitbit.png"><br>
-Note how despite an absence of data points between 2016 and 2018 (shown in the white line) does not prevent the app from interpolating with some parabolic spline in the region (blue curve). The blue curve fabricates an upward trend from 2016 to 2017 and then a downward trend from 2017 to 2018.</p></li>
+<li><b>Don't:</b> Use smoothing procedures with more flexibility than you can accommodate with the number of observations that you have.
+<div class="row">
+  <div class="col-sm-8">(<a href="http://htmlpreview.github.io/?https://gist.githubusercontent.com/swang87/fe16a765308c101216f7614cbd4d38b0/raw/2d000ea1c803b7f70fea10a848af10ce83657090/databytes_smoothing.html">Example mentioned</a>) <br>
+  <p>To the right, we show another example taken from a Fitbit app screenshot (from one of our co-hosts). Note how despite an absence of data points between 2016 and 2018 (shown in the white line) does not prevent the app from interpolating with some parabolic spline in the region (blue curve). The blue curve fabricates an upward trend from 2016 to 2017 and then a downward trend from 2017 to 2018.</p></div>
+  <div class="col-sm-4"><img src="/static/img/ep5_fitbit.png" width="200"></div>
+</div>
+
+<br>
+</p></li>
 <li><b>Do:</b> Jitter scatterplots to minimize overplotting. Or use translucency features of your plotting tool. (<a href="https://python-graph-gallery.com/134-how-to-avoid-overplotting-with-python/">Fixing overplotting in Python</a> | <a href="https://towardsdatascience.com/overshadowing-the-other-points-the-overplotting-issue-e6d1ebbdef20">Fixing overplotting in R</a>)</li>
 <li><b>Do: </b>Sort your categorical variables (barplot categories based on heights or boxplot categories based on medians). (<a href="https://moderndive.com/C-appendixC.html">Example</a>)</li>
 <li><b>Don't:</b> Use pie charts. More on that below!</li>
@@ -45,11 +50,15 @@ This image just about encapsulates everything that is wrong with pie charts.
 <li>The angling of the pie makes it hard to visually process the relative sizes of each slice.</li>
 <li>The pie chart occupies a lot of space for the information it is trying to convey.</li>
 </ul> 
-You can find multiple posts online that expand on why pie charts are often bad ways of visualizing data -- yes, there are longer rants on pie charts than the one we've given, such as the one <a href="https://www.businessinsider.com/pie-charts-are-the-worst-2013-6"> here</a>. We particularly like an example of why even simple pie charts (with few categories displayed) can fail:<br>
+<p>You can find multiple posts online that expand on why pie charts are often bad ways of visualizing data -- yes, there are longer rants on pie charts than the one we've given, such as the one <a href="https://www.businessinsider.com/pie-charts-are-the-worst-2013-6"> here</a>. We particularly like an example of why even simple pie charts (with few categories displayed) can fail:</p>
 <img src="https://amp.businessinsider.com/images/51bf1e9becad048c0a000002-960-326.jpg" width="500"><br>
-The example provided suggests that A, B, and C are pie charts that represent polling results for a 5-candidate race in a local election, done at 3 different time points. Can you tell who's in the lead at each time point?  <br>
+<p>The example provided suggests that A, B, and C are pie charts that represent polling results for a 5-candidate race in a local election, done at 3 different time points. Can you tell who's in the lead at each time point?  </p>
 <img src="https://amp.businessinsider.com/images/51bf0aa8ecad04a05d00004a-960-369.jpg" width="500"><br>
-The bar charts here represent the same data. Not only can you tell who's in the lead at any of the 3 time points, but you can also easily tell the trajectory of how each candidate fared as time progressed. 
+<p>The bar charts here represent the same data. Not only can you tell who's in the lead at any of the 3 time points, but you can also easily tell the trajectory of how each candidate fared as time progressed. </p>
+<p>This leads us to our favorite pie chart:</p>
+<figure><img src="https://i.imgur.com/aRLRqwj.png"><figcaption>
+  Source: <a href="https://imgur.com/gallery/aRLRqwj">imgur</a>.
+</figcaption></figure>
 <h3>The Naughty List</h3>
 Now we present a list of some other truly horrific charts (that are not pie charts).
 <ol><li>
@@ -91,5 +100,5 @@ Finally, this discussion wouldn't be complete with some stellar examples of thou
 <figcaption>Source: <a href="https://s3-eu-west-1.amazonaws.com/static.gapminder.org/GapminderMedia/wp-uploads/20161215212516/countries_health_wealth_2016_v151.pdf">Gapminder</a>
 </figcaption></figure><p>Indeed, this example, from the late great Hans Rosling's organization, Gapminder, is an example of where arguably a lot of information is fit into a small space. However, this is one of those plots that is actually meant to encourage zooming in and taking a good look (the source link above will lead you to the full pdf image). Even in this shrunken view, the color-coding by region helps provide a big-picture look at the relationship between health and wealth of nations around the world. The sizes of the circles additionally showcase the population size of each nation.</p></li>
 </ol>
- <h4>Looking for more?</h4>
+ <h3>Looking for more?</h3>
  There's a whole <a href="reddit.com/r/dataisbeautiful/">subreddit</a> (/r/dataisbeautiful) full of them. We use these sometimes as inspiration -- but of course, because Reddit is a free-for-all platform, not every post will be golden.
