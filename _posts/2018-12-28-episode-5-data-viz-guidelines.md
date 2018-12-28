@@ -10,9 +10,9 @@ podcast_length: 31356051
 podcast_description: "Data visualization is an integral pre-cursor to data analysis, providing a way to visually inspect the data for surprising trends and uncover potential errors in variable coding. In this episode, we cover some guiding principles of data visualization. Our accompanying blog post contains links to examples."
 ---
 
-Data visualization is an integral pre-cursor to data analysis, providing a way to visually inspect the data for surprising trends and uncover potential errors in variable coding. In this episode, we cover some guiding principles of data visualization. A brief summary (including promised links to examples) is included below the player.
+Data visualization is an integral pre-cursor to data analysis, providing a way to visually inspect the data for surprising trends and uncover potential errors in variable coding. In this episode, we cover some guiding principles of data visualization. A brief summary (including promised links to examples) is included below.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/547041969&color=%2327a79c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 
 <h4>A summary of do's and don'ts:</h4>
 <ul>
