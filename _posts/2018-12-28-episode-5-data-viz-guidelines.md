@@ -12,7 +12,7 @@ podcast_description: "Data visualization is an integral pre-cursor to data analy
 
 Data visualization is an integral pre-cursor to data analysis, providing a way to visually inspect the data for surprising trends and uncover potential errors in variable coding. In this episode, we cover some guiding principles of data visualization. A brief summary (including promised links to examples) is included below.
 
-
+<iframe src="https://www.podbean.com/media/player/u2ubt-a2e00d?from=site&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1" height="122" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 <h4>A summary of do's and don'ts:</h4>
 <ul>
