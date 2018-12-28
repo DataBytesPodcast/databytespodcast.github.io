@@ -3,14 +3,14 @@ layout: post
 title:  "Episode 5: The Do's and Don'ts of Data Visualization"
 date:   2018-12-28
 categories: episode
-podcast_link: 2h3xaa/episode4_-_12_18_18_6_13_PM.mp3
-podcast_file_size: 39.5 MB
-podcast_duration: "26:51"
-podcast_length: 38667411
-podcast_description: "Data visualization is an integral pre-cursor to data analysis, providing a way to visually inspect the data for surprising trends and uncover potential errors in coding. In this episode, we cover some guiding principles of data visualization. Our website contains links to examples."
+podcast_link: uiseri/episode5.mp3
+podcast_file_size: 32.2 MB
+podcast_duration: "21:46"
+podcast_length: 31356051
+podcast_description: "Data visualization is an integral pre-cursor to data analysis, providing a way to visually inspect the data for surprising trends and uncover potential errors in variable coding. In this episode, we cover some guiding principles of data visualization. Our accompanying blog post contains links to examples."
 ---
 
-Data visualization is an integral pre-cursor to data analysis, providing a way to visually inspect the data for surprising trends and uncover potential errors in coding. In this episode, we cover some guiding principles of data visualization. A brief summary (including promised links to examples) is included below the player.
+Data visualization is an integral pre-cursor to data analysis, providing a way to visually inspect the data for surprising trends and uncover potential errors in variable coding. In this episode, we cover some guiding principles of data visualization. A brief summary (including promised links to examples) is included below the player.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/547041969&color=%2327a79c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
