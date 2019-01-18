@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Episode 8: The French Revolution and and the Challenge of Reproducibility"
-date:   2019-01-18
+title: "Episode 8: The French Revolution and the Challenge of Reproducibility"
+date: 2019-01-18
 categories: episode
 podcast_link: zbmqn4/episode8.mp3
 podcast_file_size: 31.5 MB
 podcast_duration: "21:54"
 podcast_length: 31534102
-podcast_description: "What can machine learning tell us about the French Revolution? This episode describes a brief history lesson of the digital humanities. Then, why do we constantly hear about the word "reproducibility" in the context of scientific research? We'll explore what this means and why it seems to keep happening."
+podcast_description: "What can machine learning tell us about the French Revolution? This episode describes a brief history lesson of the digital humanities. Then, why do we constantly hear about the word 'reproducibility' in the context of scientific research? We'll explore what this means and why it seems to keep happening."
 ---
 
 What can machine learning tell us about the French Revolution? This episode describes a brief history lesson of the digital humanities. Then, why do we constantly hear about the word "reproducibility" in the context of scientific research? We'll explore what this means and why it seems to keep happening.
