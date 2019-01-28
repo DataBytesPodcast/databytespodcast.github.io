@@ -11,8 +11,8 @@
     "icon": "fa fa-broadcast-tower"
   },
   {
-    "text": "Contact",
-    "url": "https://goo.gl/forms/UJTmufR0coO32RCI2",
+    "text": "Email Us",
+    "url": "mailto:databytes.podcast@gmail.com",
     "icon": "far fa-comment-dots",
     "target": _blank
   }
