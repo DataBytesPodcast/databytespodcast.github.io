@@ -13,7 +13,6 @@ redirect_to:
 <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 <language>en-US</language>
 <generator>http://jekyllrb.com</generator>
-<itunes:new-feed-url>https://anchor.fm/s/8d30178/podcast/rss</itunes:new-feed-url>
 <itunes:summary>{{ site.podcast_summary }}</itunes:summary>
 <itunes:author>{{ site.podcast_author }}</itunes:author>
 <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
