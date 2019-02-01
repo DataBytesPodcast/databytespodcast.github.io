@@ -2,7 +2,7 @@
 layout: null
 ---
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
- 
+
 <channel>
 <title>{{ site.podcast_title }}</title>
 <atom:link href="{{ site.url }}/podcastfeed.xml" rel="self" type="application/rss+xml" />
@@ -11,6 +11,7 @@ layout: null
 <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 <language>en-US</language>
 <generator>http://jekyllrb.com</generator>
+<itunes:new-feed-url>https://anchor.fm/s/8d30178/podcast/rss</itunes:new-feed-url>
 <itunes:summary>{{ site.podcast_summary }}</itunes:summary>
 <itunes:author>{{ site.podcast_author }}</itunes:author>
 <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
