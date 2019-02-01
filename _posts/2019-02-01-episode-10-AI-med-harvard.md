@@ -6,7 +6,7 @@ categories: episode
 podcast_link: nj3ge2/episode9_v2.mp3
 podcast_file_size: 32.5 MB
 podcast_duration: "22:35"
-podcast_length: 32532361
+podcast_length: 3253261
 podcast_description: "Artificial intelligence is starting to make waves in medicine; we look at how technology might potentially change how medical testing works. We also bring in some statistical reasoning in the debate of whether or not there is racial discrimination in Harvard's college admissions process."
 ---
 
