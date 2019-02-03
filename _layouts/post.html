@@ -35,17 +35,3 @@ layout: default
     </ul>
     </div>
 {% endif %}
-{% assign curDate = site.time | date: '%s' %}
-
-<div class="PageNavigation">
-  {% if page.previous.url %}
-    <a class="prev pull-left" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
-  {% endif %}
-  {% if page.next.url %}
-  {% assign postStartDate = page.next.date | date: '%s' %}
-  {% if postStartDate <= curDate %}
-    <a class="next pull-right" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
-  {% endif %}
-  {% endif %}
-</div>
-
