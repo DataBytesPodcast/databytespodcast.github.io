@@ -1,5 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule ^podcastfeed.xml https://anchor.fm/s/8d30178/podcast/rss [L,R=301]
-</IfModule>

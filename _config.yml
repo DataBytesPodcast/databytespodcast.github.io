@@ -20,7 +20,7 @@ tagarray: []
 
 podcast_album_art: /static/img/podcast_Databytes.png
 podcast_title: DataBytes
-podcast_owner: Susan Wang
+podcast_owner: Jessi Cisewski-Kehe and Susan Wang
 podcast_email: databytes.podcast@gmail.com
 podcast_category: "Science & Medicine"
 podcast_subcategory_one: "Social Sciences"
@@ -36,7 +36,8 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
 
 plugins:
-  - 
+  - jekyll-paginate
+  - jekyll-gist
+  - github-pages
