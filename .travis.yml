@@ -1,18 +1,18 @@
 language: ruby
 cache: bundler
 script:
-  - bundle exec jekyll build
+  - bundle exec jekyll build --incremental
 
 install:
-  - bundle install
   - gem install jekyll
   - gem install jekyll-sitemap
   - gem install jekyll-paginate
-  - gem install jekyll-gist
+
 
 deploy:
   provider: pages
-  local-dir: ./site
+  local-dir: ./_site
+  target-branch: master
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
