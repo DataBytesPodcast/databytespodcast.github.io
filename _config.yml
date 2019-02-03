@@ -40,4 +40,4 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-gist
-  - github-pages
+  - jekyll-sitemap
