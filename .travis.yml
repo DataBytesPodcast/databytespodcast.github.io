@@ -1,13 +1,7 @@
 language: ruby
 cache: bundler
 script:
-  - bundle exec jekyll build --incremental
-
-install:
-  - gem install jekyll
-  - gem install jekyll-sitemap
-  - gem install jekyll-paginate
-
+  - bundle exec jekyll build
 
 deploy:
   provider: pages
