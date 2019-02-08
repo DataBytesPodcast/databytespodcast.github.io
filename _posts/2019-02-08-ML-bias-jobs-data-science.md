@@ -7,6 +7,7 @@ categories: episode
 
 AI and ML algorithms are growing popular -- but they can actually perpetuate cognitive biases in our daily lives. We discuss the state of the problem and possible solutions. We also present a favorable job outlook for aspiring (or continuing!) data scientists.
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/Episode-11-How-Machines-Might-be-Biased-and-the-Job-Market-for-Data-Scientists-e33ddj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ### Sources
 
