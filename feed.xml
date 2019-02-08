@@ -5,9 +5,50 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Feb 2019 15:02:09 +0000</pubDate>
-    <lastBuildDate>Thu, 07 Feb 2019 15:02:09 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Feb 2019 13:37:23 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Feb 2019 13:37:23 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 11: How Machines Might be Biased and the Job Market for Data Scientists</title>
+        <description>&lt;p&gt;AI and ML algorithms are growing popular – but they can actually perpetuate cognitive biases in our daily lives. We discuss the state of the problem and possible solutions. We also present a favorable job outlook for aspiring (or continuing!) data scientists.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/Episode-11-How-Machines-Might-be-Biased-and-the-Job-Market-for-Data-Scientists-e33ddj&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2019/01/yes-algorithms-can-be-biased-heres-why/#p3&quot;&gt;Yes, algorithms can be biased&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developers.google.com/machine-learning/fairness-overview/&quot;&gt;Google: Machine Learning Fairness&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://qz.com/958666/the-reason-why-most-of-the-images-are-men-when-you-search-for-doctor/&quot;&gt;The reason why most of the images that show up when you search for doctor are white men&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm&quot;&gt;ProPublica COMPAS Study&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/ibm-watson-data-lab/cognitive-bias-in-machine-learning-d287838eeb4b&quot;&gt;Cognitive Bias in Machine Learning&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stanford.edu/~cpiech/bio/papers/fairnessAdversary.pdf&quot;&gt;Achieving Fairness through Adversarial Learning: an Application to Recidivism Prediction paper&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/demand-and-salaries-for-data-scientists-continue-to-climb&quot;&gt;Demand and Salaries for Data Scientists Continue to Climb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/02/08/ML-bias-jobs-data-science.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/02/08/ML-bias-jobs-data-science.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 10: AI in Medicine and Racial Bias in College Admissions</title>
@@ -348,41 +389,6 @@ This image just about encapsulates everything that is wrong with pie charts.&lt;
         <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2018/12/04/episode-2-biometric-tech.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2018/12/04/episode-2-biometric-tech.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 1: Thanksgiving, College Football, International Prize in Statistics</title>
-        <description>&lt;p&gt;The first episode of the DataBytes Podcast where we discuss popular topics related to data, statistics, data science, machine learning, artificial intelligence.  In this episode, we discuss Thanksgiving food, the College Football Playoff selection, and the winner of the International Prize in Statistics.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/537519510&amp;amp;color=%2327a79c&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://fivethirtyeight.com/features/the-ultimate-thanksgiving-dinner-menu/&quot;&gt;FiveThirtyEight’s Thanksgiving Survey Results&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://thepowerrank.com/guide-cfb-rankings/&quot;&gt;ThePowerRank.com’s College Football Rankings&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://collegefootballplayoff.com/sports/2016/9/30/_131504729609884945.aspx&quot;&gt;College Football Playoff Selection Methods&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://massey-peabody.com/methodology/&quot;&gt;Massey-Peabody Ranking Methodology&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.statslife.org.uk/news/3982-2018-international-prize-in-statistics-awarded-to-bradley-efron&quot;&gt;Announcement of International Prize in Statistics 2018&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2018/11/29/episode-1-thanksgiving-football-prize.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2018/11/29/episode-1-thanksgiving-football-prize.html</guid>
         
         
         <category>episode</category>
