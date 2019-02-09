@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Episode 12: A Personality Test that Makes Sense and What Does Spotify Know?"
-date:   2019-02-15
+title:  "Episode 13: A Personality Test that Makes Sense and What Does Spotify Know?"
+date:   2019-02-22
 categories: episode
 ---
 
