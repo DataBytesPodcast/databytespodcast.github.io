@@ -7,6 +7,8 @@ categories: episode
 
 Three topics are featured in this episode: first, statistics about Super Bowl LIII, including what was in the bowls as the game happened; second, a fun activity for teaching confidence intervals; finally, we present some online sources for data.
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/Episode-12-Super-Bowl-Stats--Confidence-Intervals--and-Data-Sources-e35h2v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Sources
 
 * [Super Bowl Food Statistics for 2019](https://www.drovers.com/article/super-bowl-food-statistics-2019)
