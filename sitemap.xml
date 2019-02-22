@@ -5,9 +5,41 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Feb 2019 15:08:23 +0000</pubDate>
-    <lastBuildDate>Thu, 21 Feb 2019 15:08:23 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Feb 2019 13:22:31 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Feb 2019 13:22:31 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 13: IBM's Debate Machine and Adopting a 'Data Culture' in Companies</title>
+        <description>&lt;p&gt;On February 11, IBM showcased its Project Debater in a face-off against debate champion Harish Natarajan. We talk about how this machine vs. human competition went. Then, we discuss a Harvard Business Review article citing a survey that discovered companies are not becoming data-oriented quickly enough.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/Episode-13-IBMs-Debate-Machine-and-Adopting-a-Data-Culture-in-Companies-e37mq1&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fortune.com/2019/02/12/man-versus-machine-ai-artificial-intelligence-ibm-project-debater/&quot;&gt;Fortune.com article on Project Debater&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=m3u-1yttrVw&quot;&gt;Youtube video of Project Debater vs. Harish Natarajan&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hbr.org/2019/02/companies-are-failing-in-their-efforts-to-become-data-driven&quot;&gt;HBR Article: Companies Are Failing in Their Efforts to Become Data-Driven&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://newvantage.com/wp-content/uploads/2018/12/Big-Data-Executive-Survey-2019-Findings-Updated-010219-1.pdf&quot;&gt;NVP Big Data and AI Executive Survey 2019 Findings&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/02/22/debate-ibm-nvp.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/02/22/debate-ibm-nvp.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 12: Super Bowl Stats, Confidence Intervals, and Data Sources</title>
