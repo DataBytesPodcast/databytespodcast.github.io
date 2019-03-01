@@ -5,9 +5,38 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Feb 2019 15:10:54 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Feb 2019 15:10:54 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Mar 2019 13:50:32 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Mar 2019 13:50:32 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 14: A Personality Test that Makes Sense and What Does Spotify Know?</title>
+        <description>&lt;p&gt;FiveThirtyEight.com has provided a free, online personality test that might make more sense than your typical online clickbaity quiz. We talk about why it calls itself the only personality test that isn’t junk science. We then discuss the results of a recent study on Spotify data. Does it know too much about us (and you)? We’ll let you know.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/Episode-14-A-Personality-Test-that-Makes-Sense-and-What-Does-Spotify-Know-e33j9j&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://projects.fivethirtyeight.com/personality-quiz/&quot;&gt;FiveThirtyEight personality test&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arstechnica.com/science/2019/01/spotify-data-shows-how-music-preferences-change-with-latitude/#p3&quot;&gt;Spotify data shows how music preferences change with latitude&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41562-018-0508-z&quot;&gt;Original research article: Global music streaming data reveal diurnal and seasonal patterns of affective preference&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/03/01/personality-test-spotify.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/03/01/personality-test-spotify.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 13: IBM's Debate Machine and Adopting a 'Data Culture' in Companies</title>
