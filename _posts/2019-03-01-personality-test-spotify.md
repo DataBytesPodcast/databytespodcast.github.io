@@ -7,6 +7,8 @@ categories: episode
 
 FiveThirtyEight.com has provided a free, online personality test that might make more sense than your typical online clickbaity quiz. We talk about why it calls itself the only personality test that isn't junk science. We then discuss the results of a recent study on Spotify data. Does it know too much about us (and you)? We'll let you know. 
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/Episode-14-A-Personality-Test-that-Makes-Sense-and-What-Does-Spotify-Know-e33j9j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Sources
 
 * [FiveThirtyEight personality test](https://projects.fivethirtyeight.com/personality-quiz/)
