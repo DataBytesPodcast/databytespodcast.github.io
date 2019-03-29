@@ -5,13 +5,15 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Mar 2019 15:23:42 +0000</pubDate>
-    <lastBuildDate>Fri, 29 Mar 2019 15:23:42 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Mar 2019 21:28:12 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Mar 2019 21:28:12 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Episode 16: Machine-Generated Faces/Text, and Relating Health Outcomes to Skin Tone</title>
         <description>&lt;p&gt;We discuss NVIDIA’s AI-generated faces that look incredibly authentic, and relatedly, OpenAI’s text generator that is so capable that it has to be kept under wraps. We then assess the study design of a recent research article that considered how health outcomes vary amongst African Americans of different skin tones.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/16-Machine-Generated-Faces--Text--and-Relating-Health-Outcomes-to-Skin-Color-e3bu1g&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
 
@@ -57,6 +59,8 @@
       <item>
         <title>Episode 15: Deep Learning to Fold Proteins and Automated Journalism</title>
         <description>&lt;p&gt;We discuss opportunities for machines and humans in the prediction of protein structures, a necessary task in new drug discovery. Google’s DeepMind has taken the prize in the recent iteration of CASP, a protein folding prediction challenge. We also discuss how AI has begun to revolutionize journalism.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/15-Deep-Learning-to-Fold-Proteins-and-Automated-Journalism-e37ms3&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
 
