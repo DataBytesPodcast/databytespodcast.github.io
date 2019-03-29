@@ -7,6 +7,8 @@ categories: episode
 
 We discuss NVIDIA's AI-generated faces that look incredibly authentic, and relatedly, OpenAI's text generator that is so capable that it has to be kept under wraps. We then assess the study design of a recent research article that considered how health outcomes vary amongst African Americans of different skin tones.
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/16-Machine-Generated-Faces--Text--and-Relating-Health-Outcomes-to-Skin-Color-e3bu1g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Sources
 
 * [CNN Article on AI-generated Faces](https://www.cnn.com/2019/02/28/tech/ai-fake-faces/index.html)

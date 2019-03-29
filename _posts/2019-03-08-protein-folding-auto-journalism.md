@@ -7,6 +7,8 @@ categories: episode
 
 We discuss opportunities for machines and humans in the prediction of protein structures, a necessary task in new drug discovery. Google's DeepMind has taken the prize in the recent iteration of CASP, a protein folding prediction challenge. We also discuss how AI has begun to revolutionize journalism.
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/15-Deep-Learning-to-Fold-Proteins-and-Automated-Journalism-e37ms3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Sources
 
 * [Making New Drugs With a Dose of Artificial Intelligence](https://www.nytimes.com/2019/02/05/technology/artificial-intelligence-drug-research-deepmind.html?partner=rss&emc=rss)
