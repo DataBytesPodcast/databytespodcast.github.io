@@ -5,9 +5,28 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Apr 2019 15:26:49 +0000</pubDate>
-    <lastBuildDate>Thu, 04 Apr 2019 15:26:49 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Apr 2019 15:27:18 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Apr 2019 15:27:18 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 17: How Theranos Sinned Statistically</title>
+        <description>&lt;p&gt;In this episode, Susan Wang is joined by guest Natalie Doss to consider the statistical sins committed by Theranos, the former blood testing unicorn. From arbitrary data manipulation to inappropriate data aggregation, we discuss what they did and why these practices were particularly bad. Then, we weigh in on how Theranos could have done worse, making it harder for the public to find out about their faulty tests.&lt;/p&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X&quot;&gt;Bad Blood&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/04/05/Theranos.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/04/05/Theranos.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 16: Machine-Generated Faces/Text, and Relating Health Outcomes to Skin Tone</title>
@@ -374,44 +393,6 @@
         <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/01/18/episode-8-digital-humanities-reproducibility.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/01/18/episode-8-digital-humanities-reproducibility.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 7: The Virtual Maestro and the Most Influential Movie</title>
-        <description>&lt;p&gt;Have you ever wanted to try your hand at conducting an orchestra? Now you can, with Google’s Semi-Conductor online app. We’ll talk about how this browser-based app analyzes your body positions in real time to translate your actions into Mozart music. We also talk about a way to use network analysis to determine the most influential movie ever made to date. Be sure to tune in to find out which movie takes the prize.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.podbean.com/media/player/kbywj-a41fbb?from=yiiadmin&amp;amp;download=1&amp;amp;version=1&quot; data-link=&quot;https://www.podbean.com/media/player/kbywj-a41fbb?from=yiiadmin&amp;amp;download=1&amp;amp;version=1&quot; height=&quot;122&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; data-name=&quot;pb-iframe-player&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://experiments.withgoogle.com/semi-conductor&quot;&gt;Semi-Conductor with Google&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://youtu.be/L7lxRjJvAns&quot;&gt;Video of Google Semi-Conductor in Action&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5&quot;&gt;Pose Estimation with TensorFlow&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1505.07427&quot;&gt;PoseNet Paper&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2018/11/181129223426.htm&quot;&gt;Most Influential Movie of All Time&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0105-0&quot;&gt;Identification of key films and personalities in the history of cinema from a Western perspective&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/01/11/episode-7-semiconductor-influential-movie.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/01/11/episode-7-semiconductor-influential-movie.html</guid>
         
         
         <category>episode</category>

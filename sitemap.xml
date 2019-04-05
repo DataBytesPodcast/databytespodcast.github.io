@@ -5,9 +5,28 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Apr 2019 15:26:49 +0000</pubDate>
-    <lastBuildDate>Thu, 04 Apr 2019 15:26:49 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Apr 2019 15:27:18 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Apr 2019 15:27:18 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 17: How Theranos Sinned Statistically</title>
+        <description>&lt;p&gt;In this episode, Susan Wang is joined by guest Natalie Doss to consider the statistical sins committed by Theranos, the former blood testing unicorn. From arbitrary data manipulation to inappropriate data aggregation, we discuss what they did and why these practices were particularly bad. Then, we weigh in on how Theranos could have done worse, making it harder for the public to find out about their faulty tests.&lt;/p&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X&quot;&gt;Bad Blood&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/04/05/Theranos.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/04/05/Theranos.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 16: Machine-Generated Faces/Text, and Relating Health Outcomes to Skin Tone</title>
