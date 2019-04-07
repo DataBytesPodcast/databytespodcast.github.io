@@ -5,13 +5,15 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Apr 2019 15:28:32 +0000</pubDate>
-    <lastBuildDate>Sun, 07 Apr 2019 15:28:32 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Apr 2019 20:00:27 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Apr 2019 20:00:27 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Episode 17: How Theranos Sinned Statistically</title>
         <description>&lt;p&gt;In this episode, Susan Wang is joined by guest Natalie Doss to consider the statistical sins committed by Theranos, the former blood testing unicorn. From arbitrary data manipulation to inappropriate data aggregation, we discuss what they did and why these practices were particularly bad. Then, we weigh in on how Theranos could have done worse, making it harder for the public to find out about their faulty tests.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/17-How-Theranos-Sinned-Statistically-e3jfgt&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
 
