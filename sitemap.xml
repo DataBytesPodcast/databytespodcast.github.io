@@ -5,9 +5,39 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2019 15:30:47 +0000</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2019 15:30:47 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Apr 2019 15:31:33 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Apr 2019 15:31:33 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 18: Statistical Anxiety and the Fight Against Statistical Significance</title>
+        <description>&lt;p&gt;We discuss a survey designed to analyze the extent and root cause of statistical anxiety in the classroom, discussing the methods/limitations of the study. We then talk about yet another crusade against hypothesis testing, this time around the concept of “statistical significance”.&lt;/p&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://psycnet.apa.org/record/2019-01035-001&quot;&gt;Using network science to understand statistics anxiety among college students&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2019/01/190116111131.htm&quot;&gt;‘Statistics anxiety’ is real, and new research suggests targeted ways to handle it&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-019-00857-9&quot;&gt;Scientists rise up against statistical significance&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amstat.org/asa/files/pdfs/P-ValueStatement.pdf&quot;&gt;American Statistical Association Releases Statement On Statistical Significance And p-Values&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/04/12/statistical-anxiety-significance.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/04/12/statistical-anxiety-significance.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 17: How Theranos Sinned Statistically</title>
