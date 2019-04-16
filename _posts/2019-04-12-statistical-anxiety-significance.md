@@ -7,7 +7,7 @@ categories: episode
 
 We discuss a survey designed to analyze the extent and root cause of statistical anxiety in the classroom, discussing the methods/limitations of the study. We then talk about yet another crusade against hypothesis testing, this time around the concept of "statistical significance".
 
-
+<iframe src="https://anchor.fm/databytes/embed/episodes/18-Statistical-Anxiety-and-the-Fight-Against-Statistical-Significance-e3luq7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ### Sources
 
