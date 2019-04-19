@@ -7,6 +7,8 @@ categories: episode
 
 In this episode, we discuss Microsoft's handy phone application for scanning and reporting on our surroundings, as a way of helping vision impaired individuals better interact with the world around them. We then talk about how AI can be useful in detecting exoplanets (or extrasolar planets).
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/19-Seeing-with-AI-and-Detecting-Exoplanets-e3o0sv" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Sources
 
 * [Microsoft's Seeing AI app](https://www.microsoft.com/en-us/seeing-ai)
