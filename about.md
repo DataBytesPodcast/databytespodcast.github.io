@@ -23,7 +23,7 @@ DataBytes is a podcast about statistics and data science in our daily lives. It 
    then spent three years in the Department of
    Statistics at Carnegie Mellon University. Jessi currently serves on the Executive Committee of the New England Statistical Society and is the Vice-President of its NextGen Committee. Jessi is also the co-Founder and past-Chair of the American Statistical Association Astrostatistics Interest Group, a council member of the International Astrostatistics Association and co-Chair of the affiliated Cosmostatistics Initiative, and a Committee Member of the American Astronomical Society Working Group on Astroinformatics and Astrostatistics.  She is an Editor for Astronomy and Computing.</p>
 <a href="mailto:jessica.cisewski@yale.edu"  class="btn btn-primary">Email</a>
-<a href="http://www.stat.yale.edu/~jc3222/"  class="btn btn-primary">Website</a>
+<a href="https://jessicisewskikehe.github.io/"  class="btn btn-primary">Website</a>
 </div>
 </div>
 

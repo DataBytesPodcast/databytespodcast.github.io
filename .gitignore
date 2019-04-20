@@ -1,1 +1,3 @@
 /_site/
+DB.sublime*
+Gemfile.lock
