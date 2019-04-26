@@ -5,9 +5,42 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Apr 2019 15:37:37 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Apr 2019 15:37:37 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2019 15:37:27 +0000</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2019 15:37:27 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 20: Thinking Like Computers and Offline Song Identification</title>
+        <description>&lt;p&gt;In this episode, we discuss a study that recruits human researchers to try to predict how computers classify images. We then discuss how Google’s Now Playing feature can identify songs that are playing around you using embeddings.&lt;/p&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2019/03/190322090239.htm&quot;&gt;Researchers get humans to think like computers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-019-08931-6.pdf&quot;&gt;Nature Communications: Humans can decipher adversarial images&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.pcmag.com/news/356833/googles-pixel-2-phones-recognize-17-300-songs-offline&quot;&gt;Google’s Pixel 2 Phones Recognize 17,300 Songs Offline&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/09/googles-next-generation-music.html&quot;&gt;Google’s Next Generation Music Recognition&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.claudiobellei.com/2018/01/06/backprop-word2vec/&quot;&gt;Word2Vec tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/04/26/computer-thinking-now-playing.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/04/26/computer-thinking-now-playing.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 19: Seeing with AI and Detecting Exoplanets</title>
