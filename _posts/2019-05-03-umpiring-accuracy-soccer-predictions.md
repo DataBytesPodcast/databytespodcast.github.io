@@ -7,6 +7,7 @@ categories: episode
 
 Buckle up for a sports-filled episode! We discuss a study that analyzes the accuracy of umpire calls about strikes vs. balls and take a deep dive into FiveThirtyEight.com's statistical methods for predicting the winner of the Champions League.
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/21-Pitch-Call-Accuracy-and-Predicting-the-Outcome-of-the-Champions-League-e3rkfh" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ### Sources
 
