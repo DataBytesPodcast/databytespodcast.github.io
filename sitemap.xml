@@ -5,9 +5,38 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 May 2019 15:43:06 +0000</pubDate>
-    <lastBuildDate>Thu, 09 May 2019 15:43:06 +0000</lastBuildDate>
+    <pubDate>Fri, 10 May 2019 15:44:08 +0000</pubDate>
+    <lastBuildDate>Fri, 10 May 2019 15:44:08 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 22: DataFest 2019 and Perceptions about AI</title>
+        <description>&lt;p&gt;Susan recently served as a judge at a local DataFest competition (a weekend-long data competition for undergraduates). She shares her experiences and recommendations for future contestants. We then talk about a study that reports on America’s perceptions about artificial intelligence – who can we trust to develop AI responsibly?&lt;/p&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ww2.amstat.org/education/datafest/index.cfm&quot;&gt;ASA Datafest Website&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/&quot;&gt;Artificial Intelligence: American Attitudes and Trends&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.artificialintelligence-news.com/2019/01/10/report-public-ai-benefit-humanity/&quot;&gt;SOCIETY Report: The public is unconvinced AI will benefit humanity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.vox.com/future-perfect/2019/1/9/18174081/fhi-govai-ai-safety-american-public-worried-ai-catastrophe&quot;&gt;Vox: The American public is already worried about AI catastrophe&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2019-01-10/u-s-military-trusted-more-than-google-facebook-to-develop-ai&quot;&gt;U.S. Military Trusted More Than Google, Facebook to Develop AI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/05/10/datafest-perception-AI.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/05/10/datafest-perception-AI.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 21: Pitch Call Accuracy and Predicting the Outcome of the Champions League</title>

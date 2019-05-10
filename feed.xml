@@ -5,9 +5,38 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 May 2019 15:43:06 +0000</pubDate>
-    <lastBuildDate>Thu, 09 May 2019 15:43:06 +0000</lastBuildDate>
+    <pubDate>Fri, 10 May 2019 15:44:08 +0000</pubDate>
+    <lastBuildDate>Fri, 10 May 2019 15:44:08 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 22: DataFest 2019 and Perceptions about AI</title>
+        <description>&lt;p&gt;Susan recently served as a judge at a local DataFest competition (a weekend-long data competition for undergraduates). She shares her experiences and recommendations for future contestants. We then talk about a study that reports on America’s perceptions about artificial intelligence – who can we trust to develop AI responsibly?&lt;/p&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ww2.amstat.org/education/datafest/index.cfm&quot;&gt;ASA Datafest Website&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/&quot;&gt;Artificial Intelligence: American Attitudes and Trends&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.artificialintelligence-news.com/2019/01/10/report-public-ai-benefit-humanity/&quot;&gt;SOCIETY Report: The public is unconvinced AI will benefit humanity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.vox.com/future-perfect/2019/1/9/18174081/fhi-govai-ai-safety-american-public-worried-ai-catastrophe&quot;&gt;Vox: The American public is already worried about AI catastrophe&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2019-01-10/u-s-military-trusted-more-than-google-facebook-to-develop-ai&quot;&gt;U.S. Military Trusted More Than Google, Facebook to Develop AI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/05/10/datafest-perception-AI.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/05/10/datafest-perception-AI.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 21: Pitch Call Accuracy and Predicting the Outcome of the Champions League</title>
@@ -307,81 +336,6 @@
         <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/02/22/debate-ibm-nvp.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/02/22/debate-ibm-nvp.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 12: Super Bowl Stats, Confidence Intervals, and Data Sources</title>
-        <description>&lt;p&gt;Three topics are featured in this episode: first, statistics about Super Bowl LIII, including what was in the bowls as the game happened; second, a fun activity for teaching confidence intervals; finally, we present some online sources for data.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/Episode-12-Super-Bowl-Stats--Confidence-Intervals--and-Data-Sources-e35h2v&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.drovers.com/article/super-bowl-food-statistics-2019&quot;&gt;Super Bowl Food Statistics for 2019&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.wusa9.com/article/sports/nfl/superbowl/all-the-records-set-during-super-bowl-53/507-c1b28a03-cb4a-4146-9240-5eecc78573ae&quot;&gt;All the records set during Super Bowl 53&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nationalchickencouncil.org/americans-to-eat-more-than-1-3-billion-chicken-wings-for-super-bowl/&quot;&gt;Americans to Eat More than 1.3 Billion Chicken Wings for Super Bowl&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://nrf.com/media-center/press-releases/fewer-consumers-celebrating-valentines-day-those-who-do-are-spending&quot;&gt;Fewer consumers celebrating Valentine’s Day but those who do are spending more&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2012.752408&quot;&gt;Twenty-Five Analogies for Explaining Statistical Concepts&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2017.1305294#.XF8aqc9KjOQ&quot;&gt;Enriching Students’ Conceptual Understanding of Confidence Intervals: An Interactive Trivia-Based Classroom Activity&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;questions-for-confidence-interval-activity&quot;&gt;Questions for Confidence Interval Activity&lt;/h3&gt;
-
-&lt;p&gt;The questions below were asked in the podcast. The answers are provided in line. Answers that are not immediately obvious through a Google search are linked to their sources.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;What’s the average distance from the Earth to Mars in kilometers?” &lt;a href=&quot;https://www.space.com/14729-spacekids-distance-earth-mars.html&quot;&gt;225 mil km&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What’s the height of Denali (formerly Mt. McKinley) in feet? 20,310ft to 20,320 ft&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What’s the minimum number of moves required to solve any Rubik’s cube? 20.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What year was the first toothpaste tube invented? 1873&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How many men signed the Declaration of Independence? 56&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How many milligrams of caffeine on average are in a shot of Starbucks espresso? 89 mg&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What percentage of American adults is estimated to own a smartphone , as of 2018? &lt;a href=&quot;http://www.pewglobal.org/2019/02/05/smartphone-ownership-is-growing-rapidly-around-the-world-but-not-always-equally/&quot;&gt;81%&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What is the greatest amount of snow to fall in a single US location over 24 hour period, in inches? 75.8”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In 2017, how much beef did Americans consume per person on average (in lbs)? &lt;a href=&quot;https://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/&quot;&gt;56.9 lbs&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;As of Feb 1, 2019, how many bitcoins are there in circulation? &lt;a href=&quot;https://www.blockchain.com/en/charts/total-bitcoins&quot;&gt;17,516,000&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/02/15/superbowl53-CI-datasources.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/02/15/superbowl53-CI-datasources.html</guid>
         
         
         <category>episode</category>
