@@ -5,33 +5,42 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 May 2019 15:44:08 +0000</pubDate>
-    <lastBuildDate>Fri, 10 May 2019 15:44:08 +0000</lastBuildDate>
+    <pubDate>Sat, 11 May 2019 14:18:32 +0000</pubDate>
+    <lastBuildDate>Sat, 11 May 2019 14:18:32 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Episode 22: DataFest 2019 and Perceptions about AI</title>
-        <description>&lt;p&gt;Susan recently served as a judge at a local DataFest competition (a weekend-long data competition for undergraduates). She shares her experiences and recommendations for future contestants. We then talk about a study that reports on America’s perceptions about artificial intelligence – who can we trust to develop AI responsibly?&lt;/p&gt;
+        <title>Episode 22: Betting on the Game of Thrones and the Misfortune of Lefthandedness</title>
+        <description>&lt;p&gt;In this episode, we discuss how bookmakers price/take bets on outcomes in the Game of Thrones. We then discuss a study that claimed that lefthanded people have shorter life expectancies than righthanded people. Spoiler alert: lefthanders have nothing to worry about!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/22-Betting-on-the-Game-of-Thrones-and-the-Misfortune-of-Lefthandedness-e3rkh6&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://ww2.amstat.org/education/datafest/index.cfm&quot;&gt;ASA Datafest Website&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.pinnacle.com/en/betting-articles/Betting-Strategy/how-bookmakers-work/SF72KYQE4FZAA4TZ&quot;&gt;Pinnacle.com: How Bookmakers Work&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/&quot;&gt;Artificial Intelligence: American Attitudes and Trends&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://mybookie.ag/sportsbook/got/&quot;&gt;Mybookie.ag: Game of Thrones Bets&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.artificialintelligence-news.com/2019/01/10/report-public-ai-benefit-humanity/&quot;&gt;SOCIETY Report: The public is unconvinced AI will benefit humanity&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.vox.com/future-perfect/2019/1/9/18174081/fhi-govai-ai-safety-american-public-worried-ai-catastrophe&quot;&gt;Vox: The American public is already worried about AI catastrophe&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.onlinegambling.com/news/2018/03/game-of-thrones-betting-halted-after-suspicious-wagers-on-iron-throne/&quot;&gt;‘Game of Thrones’ Betting Halted After Suspicious Rash of Wagers on Long Shot to Win Iron Throne&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2019-01-10/u-s-military-trusted-more-than-google-facebook-to-develop-ai&quot;&gt;U.S. Military Trusted More Than Google, Facebook to Develop AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.oddsshark.com/entertainment/game-thrones-prop-odds-bet-who-will-be-ruling-westeros&quot;&gt;OddsShark: Bet on Who Will be Ruling Westeros&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/news/the-power-of-prediction-markets-1.20820&quot;&gt;Nature.com: The power of prediction markets&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/2006231&quot;&gt;Psychology Bulletin: Left-handedness: a marker for decreased survival fitness.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io/episode/2019/05/10/datafest-perception-AI.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/05/10/datafest-perception-AI.html</guid>
+        <link>https://databytespodcast.github.io/episode/2019/05/10/got-lefthanded.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/05/10/got-lefthanded.html</guid>
         
         
         <category>episode</category>
