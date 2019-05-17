@@ -8,6 +8,8 @@ categories: episode
 In this episode, we discuss how Google's Now Playing feature can identify songs that are playing around you, using embeddings. We then talk about a study that reports on America's perceptions about artificial intelligence -- who can we trust to develop AI responsibly?
 
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/23-Offline-Song-Identification-and-Perceptions-about-AI-e3rkht" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Sources
 
 * [Google's Pixel 2 Phones Recognize 17,300 Songs Offline](https://www.pcmag.com/news/356833/googles-pixel-2-phones-recognize-17-300-songs-offline)
