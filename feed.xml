@@ -5,9 +5,50 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 May 2019 15:47:21 +0000</pubDate>
-    <lastBuildDate>Thu, 16 May 2019 15:47:21 +0000</lastBuildDate>
+    <pubDate>Fri, 17 May 2019 15:11:44 +0000</pubDate>
+    <lastBuildDate>Fri, 17 May 2019 15:11:44 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 23: Offline Song Identification and Perceptions about AI</title>
+        <description>&lt;p&gt;In this episode, we discuss how Google’s Now Playing feature can identify songs that are playing around you, using embeddings. We then talk about a study that reports on America’s perceptions about artificial intelligence – who can we trust to develop AI responsibly?&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/23-Offline-Song-Identification-and-Perceptions-about-AI-e3rkht&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.pcmag.com/news/356833/googles-pixel-2-phones-recognize-17-300-songs-offline&quot;&gt;Google’s Pixel 2 Phones Recognize 17,300 Songs Offline&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/09/googles-next-generation-music.html&quot;&gt;Google’s Next Generation Music Recognition&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.claudiobellei.com/2018/01/06/backprop-word2vec/&quot;&gt;Word2Vec tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/&quot;&gt;Artificial Intelligence: American Attitudes and Trends&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.artificialintelligence-news.com/2019/01/10/report-public-ai-benefit-humanity/&quot;&gt;SOCIETY Report: The public is unconvinced AI will benefit humanity&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.vox.com/future-perfect/2019/1/9/18174081/fhi-govai-ai-safety-american-public-worried-ai-catastrophe&quot;&gt;Vox: The American public is already worried about AI catastrophe&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2019-01-10/u-s-military-trusted-more-than-google-facebook-to-develop-ai&quot;&gt;U.S. Military Trusted More Than Google, Facebook to Develop AI&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/05/17/now-playing-perceptions-ai.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/05/17/now-playing-perceptions-ai.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 22: Betting on the Game of Thrones and the Misfortune of Lefthandedness</title>
@@ -313,38 +354,6 @@
         <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/03/01/personality-test-spotify.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/03/01/personality-test-spotify.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 13: IBM's Debate Machine and Adopting a 'Data Culture' in Companies</title>
-        <description>&lt;p&gt;On February 11, IBM showcased its Project Debater in a face-off against debate champion Harish Natarajan. We talk about how this machine vs. human competition went. Then, we discuss a Harvard Business Review article citing a survey that discovered companies are not becoming data-oriented quickly enough.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/Episode-13-IBMs-Debate-Machine-and-Adopting-a-Data-Culture-in-Companies-e37mq1&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://fortune.com/2019/02/12/man-versus-machine-ai-artificial-intelligence-ibm-project-debater/&quot;&gt;Fortune.com article on Project Debater&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=m3u-1yttrVw&quot;&gt;Youtube video of Project Debater vs. Harish Natarajan&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://hbr.org/2019/02/companies-are-failing-in-their-efforts-to-become-data-driven&quot;&gt;HBR Article: Companies Are Failing in Their Efforts to Become Data-Driven&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://newvantage.com/wp-content/uploads/2018/12/Big-Data-Executive-Survey-2019-Findings-Updated-010219-1.pdf&quot;&gt;NVP Big Data and AI Executive Survey 2019 Findings&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/02/22/debate-ibm-nvp.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/02/22/debate-ibm-nvp.html</guid>
         
         
         <category>episode</category>
