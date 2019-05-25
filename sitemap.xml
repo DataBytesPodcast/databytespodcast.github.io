@@ -5,13 +5,32 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 May 2019 15:50:14 +0000</pubDate>
-    <lastBuildDate>Sat, 25 May 2019 15:50:14 +0000</lastBuildDate>
+    <pubDate>Sat, 25 May 2019 15:57:49 +0000</pubDate>
+    <lastBuildDate>Sat, 25 May 2019 15:57:49 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Episode 24: Predictive Power of Early Polling and Did a TV Show Result in Higher Teenage Suicides?</title>
-        <description>&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+        <description>&lt;p&gt;In this episode, we discuss FiveThirtyEight.com’s analysis of primary election polling over the past 40 years. In particular, we consider whether early polling is helpful for predicting election outcomes.  And then, we talk about a study that potentially blames Netflix for a surge in teenage suicides in 2017.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/24-Predictive-Power-of-Early-Polling-and-Did-a-TV-Show-Result-in-Higher-Teenage-Suicides-e43oic&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://fivethirtyeight.com/features/we-analyzed-40-years-of-primary-polls-even-early-on-theyre-fairly-predictive/&quot;&gt;We Analyzed 40 Years Of Primary Polls. Even Early On, They’re Fairly Predictive.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.jaacap.org/article/S0890-8567(19)30288-6/fulltext&quot;&gt;Research Article: Association Between the Release of Netflix’s 13 Reasons Why and Suicide Rates in the United States: An Interrupted Times Series Analysis&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.npr.org/2019/04/30/718529255/teen-suicide-spiked-after-debut-of-netflixs-13-reasons-why-report-says&quot;&gt;NPR: Teen Suicide Spiked After Debut Of Netflix’s ‘13 Reasons Why,’ Study Says&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tylervigen.com/spurious-correlations&quot;&gt;Spurious Correlations&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io/episode/2019/05/24/538polling-suicides.html</link>
