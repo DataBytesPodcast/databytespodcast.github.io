@@ -5,9 +5,39 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 May 2019 15:53:28 +0000</pubDate>
-    <lastBuildDate>Thu, 30 May 2019 15:53:28 +0000</lastBuildDate>
+    <pubDate>Fri, 31 May 2019 15:54:38 +0000</pubDate>
+    <lastBuildDate>Fri, 31 May 2019 15:54:38 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 25: DataFest 2019 and Measuring Migrations from Hurricane Maria</title>
+        <description>&lt;p&gt;Susan recently served as a judge at a local DataFest competition (a weekend-long data competition for undergraduates). She shares her experiences and recommendations for future contestants. We then discuss how Facebook data might be helpful for counting the number of people how migrated from Puerto Rico to the mainland U.S. as a result of Hurricane Maria.&lt;/p&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ww2.amstat.org/education/datafest/index.cfm&quot;&gt;ASA Datafest Website&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.sciencenews.org/article/facebook-data-show-how-many-people-left-puerto-rico-after-hurricane-maria&quot;&gt;Science News: Facebook data show how many people left Puerto Rico after Hurricane Maria&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://osf.io/preprints/socarxiv/39s6c/&quot;&gt;Research article: The impact of Hurricane Maria on out-migration from Puerto Rico: Evidence from Facebook data&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://centropr.hunter.cuny.edu/sites/default/files/data_briefs/Hurricane_maria_1YR.pdf&quot;&gt;Puerto Rico One Year After Hurricane Maria&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/05/31/datafest-hurricane-maria.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/05/31/datafest-hurricane-maria.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 24: Predictive Power of Early Polling and Did a TV Show Result in Higher Teenage Suicides?</title>
@@ -310,53 +340,6 @@
         <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/03/15/AI-faces-skin-tone.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/03/15/AI-faces-skin-tone.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 15: Deep Learning to Fold Proteins and Automated Journalism</title>
-        <description>&lt;p&gt;We discuss opportunities for machines and humans in the prediction of protein structures, a necessary task in new drug discovery. Google’s DeepMind has taken the prize in the recent iteration of CASP, a protein folding prediction challenge. We also discuss how AI has begun to revolutionize journalism.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/15-Deep-Learning-to-Fold-Proteins-and-Automated-Journalism-e37ms3&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2019/02/05/technology/artificial-intelligence-drug-research-deepmind.html?partner=rss&amp;amp;emc=rss&quot;&gt;Making New Drugs With a Dose of Artificial Intelligence&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/&quot;&gt;Mohammed AlQuraishi Blogpost on CASP13&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://fold.it/portal/info/faq&quot;&gt;FoldIt FAQs&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://endlessmedia.news/media-deepdive/the-power-of-subjectivity-in-the-age-of-robot-journalism-118/&quot;&gt;The power of subjectivity in the age of robot journalism&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2019/02/05/business/media/artificial-intelligence-journalism-robots.html&quot;&gt;The Rise of the Robot Reporter&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://medium.com/@orge/this-is-the-future-of-journalism-will-a-machine-get-it-right-d3e747f16751&quot;&gt;Medium.com Article: The Future of Journalism: Will Robots Get it Right?&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.forbes.com/sites/nicolemartin1/2019/02/08/did-a-robot-write-this-how-ai-is-impacting-journalism/#1721e7fb7795&quot;&gt;Forbes.com: Did A Robot Write This? How AI Is Impacting Journalism&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.institutionalinvestor.com/article/b15130p2nnv8dr/why-listen-to-earnings-calls-when-artificial-intelligence-can-do-it-better&quot;&gt;Why Listen to Earnings Calls When Artificial Intelligence Can Do It Better?&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://insight.factset.com/interpreting-earnings-calls-with-natural-language-processing&quot;&gt;Interpreting Earnings Calls with Natural Language Processing&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/03/08/protein-folding-auto-journalism.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/03/08/protein-folding-auto-journalism.html</guid>
         
         
         <category>episode</category>

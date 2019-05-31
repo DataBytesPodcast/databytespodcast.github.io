@@ -5,9 +5,39 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 May 2019 15:53:28 +0000</pubDate>
-    <lastBuildDate>Thu, 30 May 2019 15:53:28 +0000</lastBuildDate>
+    <pubDate>Fri, 31 May 2019 15:54:38 +0000</pubDate>
+    <lastBuildDate>Fri, 31 May 2019 15:54:38 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 25: DataFest 2019 and Measuring Migrations from Hurricane Maria</title>
+        <description>&lt;p&gt;Susan recently served as a judge at a local DataFest competition (a weekend-long data competition for undergraduates). She shares her experiences and recommendations for future contestants. We then discuss how Facebook data might be helpful for counting the number of people how migrated from Puerto Rico to the mainland U.S. as a result of Hurricane Maria.&lt;/p&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ww2.amstat.org/education/datafest/index.cfm&quot;&gt;ASA Datafest Website&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.sciencenews.org/article/facebook-data-show-how-many-people-left-puerto-rico-after-hurricane-maria&quot;&gt;Science News: Facebook data show how many people left Puerto Rico after Hurricane Maria&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://osf.io/preprints/socarxiv/39s6c/&quot;&gt;Research article: The impact of Hurricane Maria on out-migration from Puerto Rico: Evidence from Facebook data&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://centropr.hunter.cuny.edu/sites/default/files/data_briefs/Hurricane_maria_1YR.pdf&quot;&gt;Puerto Rico One Year After Hurricane Maria&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/05/31/datafest-hurricane-maria.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/05/31/datafest-hurricane-maria.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 24: Predictive Power of Early Polling and Did a TV Show Result in Higher Teenage Suicides?</title>
