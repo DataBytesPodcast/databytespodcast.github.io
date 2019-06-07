@@ -5,9 +5,54 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jun 2019 15:56:42 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Jun 2019 15:56:42 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2019 15:56:36 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Jun 2019 15:56:36 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 26: Household Electronics That See and Google's Reservation AI</title>
+        <description>&lt;p&gt;In this episode, we talk about a new innovation that enables household electronics to see what’s around them. We then discuss Google Duplex, an AI designed to happily make reservations and appointments for you.&lt;/p&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.economist.com/science-and-technology/2019/05/11/https://www.economist.com/science-and-technology/2019/05/11/household-electronics-are-undergoing-a-sensory-makeoverhousehold-electronics-are-undergoing-a-sensory-makeover&quot;&gt;The Economist: Household electronics are undergoing a sensory makeover&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2019/1/4/18168565/amazon-alexa-devices-how-many-sold-number-100-million-dave-limp&quot;&gt;The Verge: Amazon Says 100 Million Alexa Devices Have Been Sold — What’s Next?&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://gizmodo.com/the-terrible-truth-about-alexa-1834075404&quot;&gt;Gizmodo: The Terrible Truth About Alexa&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio&quot;&gt;Bloomberg: Amazon Workers Are Listening to What You Tell Alexa&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gierad.com/projects/surfacesight/&quot;&gt;SurfaceSight&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=znNe4pMCsD4&quot;&gt;Google Duplex Demo&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2019/5/9/18538194/google-duplex-ai-restaurants-experiences-review-robocalls&quot;&gt;The Verge: One Year Later, Restaurants Are Still Confused By Google Duplex&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2019/5/7/18531195/google-duplex-web-update-car-rentals-movie-tickets-io-2019&quot;&gt;The Verge: Google is bringing Duplex to the web to help book car rentals and movie tickets&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.forbes.com/sites/tomtaulli/2019/04/21/what-you-need-to-know-about-chatbots/#29c56d444844&quot;&gt;Forbes: What You Need To Know About Chatbots&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/06/07/household-elec-google-duplex.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/06/07/household-elec-google-duplex.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 25: DataFest 2019 and Measuring Migrations from Hurricane Maria</title>
@@ -293,53 +338,6 @@
         <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/04/05/Theranos.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/04/05/Theranos.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 16: Machine-Generated Faces/Text, and Relating Health Outcomes to Skin Tone</title>
-        <description>&lt;p&gt;We discuss NVIDIA’s AI-generated faces that look incredibly authentic, and relatedly, OpenAI’s text generator that is so capable that it has to be kept under wraps. We then assess the study design of a recent research article that considered how health outcomes vary amongst African Americans of different skin tones.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/16-Machine-Generated-Faces--Text--and-Relating-Health-Outcomes-to-Skin-Color-e3bu1g&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/28/tech/ai-fake-faces/index.html&quot;&gt;CNN Article on AI-generated Faces&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://thispersondoesnotexist.com&quot;&gt;thispersondoesnotexist.com&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://skymind.ai/wiki/generative-adversarial-network-gan&quot;&gt;Beginner’s Guide to GANs&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://github.com/NVlabs/stylegan&quot;&gt;StyleGAN on Github&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/1812.04948.pdf&quot;&gt;StyleGAN paper on Arxiv&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.sciencealert.com/scientists-developed-an-ai-so-advanced-they-say-it-s-too-dangerous-to-release&quot;&gt;Article about OpenAI&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2019/02/27/light-privilege-skin-tone-stratification-in-health-among-african-americans/&quot;&gt;Andrew Gelman article on Skin Tone paper&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://journals.sagepub.com/doi/pdf/10.1177/2332649218793670&quot;&gt;Light Privilege? Skin Tone Stratification in Health among African Americans&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000309.v2.p2&amp;amp;phd=3472&quot;&gt;CARDIA Y20 Follow-up Exam VII Protocol&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/03/15/AI-faces-skin-tone.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/03/15/AI-faces-skin-tone.html</guid>
         
         
         <category>episode</category>
