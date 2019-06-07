@@ -7,6 +7,8 @@ categories: episode
 
 Susan recently served as a judge at a local DataFest competition (a weekend-long data competition for undergraduates). She shares her experiences and recommendations for future contestants. We then discuss how Facebook data might be helpful for counting the number of people how migrated from Puerto Rico to the mainland U.S. as a result of Hurricane Maria.
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/25-DataFest-2019-and-Measuring-Migrations-from-Hurricane-Maria-e43pen" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Sources
 
 * [ASA Datafest Website](https://ww2.amstat.org/education/datafest/index.cfm)

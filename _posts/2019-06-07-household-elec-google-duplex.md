@@ -7,6 +7,8 @@ categories: episode
 
 In this episode, we talk about a new innovation that enables household electronics to see what's around them. We then discuss Google Duplex, an AI designed to happily make reservations and appointments for you.
 
+<iframe src="https://anchor.fm/databytes/embed/episodes/26-Household-Electronics-That-See-and-Googles-Reservation-AI-e43ph9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Sources
 
 * [The Economist: Household electronics are undergoing a sensory makeover](https://www.economist.com/science-and-technology/2019/05/11/https://www.economist.com/science-and-technology/2019/05/11/household-electronics-are-undergoing-a-sensory-makeoverhousehold-electronics-are-undergoing-a-sensory-makeover)
