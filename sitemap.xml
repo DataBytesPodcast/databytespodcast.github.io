@@ -5,13 +5,59 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jun 2019 15:58:57 +0000</pubDate>
-    <lastBuildDate>Fri, 14 Jun 2019 15:58:57 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2019 17:37:56 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2019 17:37:56 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Episode 27: Does Uber/Lyft Help Or Hurt Traffic Congestion and Machine Learning Interpretability</title>
+        <description>&lt;p&gt;In this episode, we look at a study about whether ride-sharing services contribute to increased or decreased traffic congestion in San Francisco. We then discuss some strategies to build interpretable machine learning models.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/27-Does-UberLyft-Help-Or-Hurt-Traffic-Congestion-and-Machine-Learning-Interpretability-e4af56&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://advances.sciencemag.org/content/5/5/eaau2670/tab-pdf&quot;&gt;Science Advances article: Do transportation network companies decrease or increase congestion?&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.sfcta.org/sf-champ-modeling&quot;&gt;SF-CHAMP Modeling&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.kdnuggets.com/2018/03/gdpr-machine-learning-illegal.html&quot;&gt;KDNuggets.com: Will GDPR Make Machine Learning Illegal?&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://christophm.github.io/interpretable-ml-book/&quot;&gt;Interpretable Machine Learning free online textbook&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/MachineLearning/comments/7w46zv/p_lime_explaining_the_predictions_of_any_machine/&quot;&gt;Reddit.com: [P] Lime: Explaining the predictions of any machine learning classifier&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://uc-r.github.io/lime&quot;&gt;UC Business Analytics R Programming Guide: Visualizing ML Models with LIME&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1602.04938&quot;&gt;arXiv.org: “Why Should I Trust You?”: Explaining the Predictions of Any Classifier&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1705.07874&quot;&gt;arXiv.org: A Unified Approach to Interpreting Model Predictions&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/06/14/ride-sharing-ml-interpretability.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/06/14/ride-sharing-ml-interpretability.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 26: Household Electronics That See and Google's Reservation AI</title>
         <description>&lt;p&gt;In this episode, we talk about a new innovation that enables household electronics to see what’s around them. We then discuss Google Duplex, an AI designed to happily make reservations and appointments for you.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/26-Household-Electronics-That-See-and-Googles-Reservation-AI-e43ph9&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
 
@@ -57,6 +103,8 @@
       <item>
         <title>Episode 25: DataFest 2019 and Measuring Migrations from Hurricane Maria</title>
         <description>&lt;p&gt;Susan recently served as a judge at a local DataFest competition (a weekend-long data competition for undergraduates). She shares her experiences and recommendations for future contestants. We then discuss how Facebook data might be helpful for counting the number of people how migrated from Puerto Rico to the mainland U.S. as a result of Hurricane Maria.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/25-DataFest-2019-and-Measuring-Migrations-from-Hurricane-Maria-e43pen&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
 
