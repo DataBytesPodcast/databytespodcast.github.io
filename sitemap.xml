@@ -5,9 +5,65 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jul 2019 16:07:46 +0000</pubDate>
-    <lastBuildDate>Thu, 04 Jul 2019 16:07:46 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jul 2019 15:00:41 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Jul 2019 15:00:41 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Episode 30: Some Like It Hot -- What Gender Reveals About Our Temperature Preferences</title>
+        <description>&lt;p&gt;Word on the street is that women prefer warmer temperatures than men do. Researchers designed an experiment to investigate whether this is actually true, specifically, considering how men and women perform on various cognitive tasks under different temperature scenarios. In this episode, we dissect the study so you can judge whether you believe the results.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216362&quot;&gt;Plos One article: Battle for the thermostat: Gender and the effect of temperature on cognitive performance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/07/05/temperature-gender.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/07/05/temperature-gender.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
+    
+      <item>
+        <title>Episode 29: Jeopardy! Meets Statistics</title>
+        <description>&lt;p&gt;Jeopardy! is a weeknightly televised trivia game show. In recent months, one player, James Holzhauer has taken the Jeopardy! fandom by storm with his unusual style of play and his long run of big wins. In this episode, we discuss how statistics can help explain his betting tactics, and we discuss how some other Jeopardy! players have used statistics to help up their game.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/29-Jeopardy--Meets-Statistics-e4ekv5&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.vox.com/culture/2019/6/3/18650485/jeopardy-james-holzhauer-loses-record-winnings&quot;&gt;James Holzhauer’s Jeopardy winning streak has come to an end&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.wired.com/story/jeopardy-record-james-holzhauer-strategy/&quot;&gt;Inside James Holzhauer’s Jeopardy!-dominating Strategy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cdr.lib.unc.edu/concern/parent/tb09j9193/file_sets/bz60d095h&quot;&gt;Emma Boettcher’s Master Thesis&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://futurism.com/jeopardy-emma-boettcher-ai-james-holzhauer&quot;&gt;We Found “Jeopardy!” Kingslayer Emma Boettcher’s Thesis on Data Mining&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://gawker.com/5860275/how-a-geek-cracked-the-jeopardy-code&quot;&gt;How a Geek Cracked the Jeopardy! Code&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/06/28/jeopardy.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/06/28/jeopardy.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 28: Facial Recognition Technology Update and Rating Trustworthiness of AI-Generated Airbnb Profiles</title>
