@@ -5,9 +5,35 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jul 2019 16:13:27 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Jul 2019 16:13:27 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jul 2019 20:21:03 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Jul 2019 20:21:03 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Episode 31: What Data Visualizations Do You Care About? It's Personal</title>
+        <description>&lt;p&gt;In this episode, we talk about how data are personal for those in a rural Pennsylvania community.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/31-What-Data-Visualizations-Do-You-Care-About--Its-Personal-e4ap0f&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d&quot;&gt;Data is Personal. What We Learned from 42 Interviews in Rural America.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/1901.01920.pdf&quot;&gt;Research article: Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/07/12/data-personal.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/07/12/data-personal.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 30: Some Like It Hot -- What Gender Reveals About Our Temperature Preferences</title>
@@ -334,38 +360,6 @@
         <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/05/10/got-lefthanded.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/05/10/got-lefthanded.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 21: Pitch Call Accuracy and Predicting the Outcome of the Champions League</title>
-        <description>&lt;p&gt;Buckle up for a sports-filled episode! We discuss a study that analyzes the accuracy of umpire calls about strikes vs. balls and take a deep dive into FiveThirtyEight.com’s statistical methods for predicting the winner of the Champions League.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/21-Pitch-Call-Accuracy-and-Predicting-the-Outcome-of-the-Champions-League-e3rkfh&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.bu.edu/today/2019/mlb-umpires-strike-zone-accuracy/&quot;&gt;MLB Umpires Missed 34,294 Ball-Strike Calls in 2018. Bring on Robo-umps?&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://mlb.mlb.com/documents/0/8/0/268272080/2018_Official_Baseball_Rules.pdf&quot;&gt;Official Baseball Rules 2018&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://projects.fivethirtyeight.com/soccer-predictions/champions-league/&quot;&gt;FiveThirtyEight: Champions League Predictions&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/&quot;&gt;FiveThirtyEight: How Our Club Soccer Predictions Work&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/05/03/umpiring-accuracy-soccer-predictions.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/05/03/umpiring-accuracy-soccer-predictions.html</guid>
         
         
         <category>episode</category>
