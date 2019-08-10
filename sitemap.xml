@@ -5,9 +5,41 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Aug 2019 16:27:24 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Aug 2019 16:27:24 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Aug 2019 17:00:05 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Aug 2019 17:00:05 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Episode 35: You Look How You Sound</title>
+        <description>&lt;p&gt;Deep learning has been useful for lots of applications when it comes to prediction. Yet another is the use of a short sound clip of speech to predict the face of the speaker.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/35-Using-voice-to-predict-appearance-e4eksr&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.sciencealert.com/this-ai-tries-to-guess-what-you-look-like-based-on-your-voice&quot;&gt;This Creepy AI Predicts What You Look Like Based on Your Voice&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1905.09773&quot;&gt;Speech2Face paper: Speech2Face: Learning the Face Behind a Voice&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://speech2face.github.io/&quot;&gt;Speech2Face website: Learning the Face Behind a Voice&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://looking-to-listen.github.io/&quot;&gt;AVSpeech paper website&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/08/09/voice-appearance.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/08/09/voice-appearance.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 34: Protecting Kids' Digital Privacy</title>
