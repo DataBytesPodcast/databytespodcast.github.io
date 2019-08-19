@@ -5,9 +5,41 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Aug 2019 16:31:25 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Aug 2019 16:31:25 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2019 14:32:09 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2019 14:32:09 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Episode 36: What's New in Machine Learning Startups</title>
+        <description>&lt;p&gt;In this episode, we talk about some machine learning startups to pay attention to this year.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/36-Whats-New-in-Machine-Learning-Startups-e4ekhj&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.forbes.com/sites/louiscolumbus/2019/05/27/25-machine-learning-startups-to-watch-in-2019/#538f835e3c0b&quot;&gt;25 Machine Learning Startups To Watch In 2019&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.prnewswire.com/news-releases/ablacon-inc-raises-21-5m-series-a-to-advance-ai-enabled-atrial-fibrillation-mapping-system-300840324.html&quot;&gt;Ablacon Raises $21.5M&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.startups.com/library/expert-advice/series-funding-a-b-c-d-e&quot;&gt;Startup funding, explained&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2019/05/21/people-ai-the-predictive-sales-startup-raises-60m-at-around-500m-valuation/&quot;&gt;People.ai, the predictive sales startup, raises $60M&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/08/16/ml-startups.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/16/ml-startups.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 35: You Look How You Sound</title>
@@ -312,53 +344,6 @@
         <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/06/14/ride-sharing-ml-interpretability.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/06/14/ride-sharing-ml-interpretability.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 26: Household Electronics That See and Google's Reservation AI</title>
-        <description>&lt;p&gt;In this episode, we talk about a new innovation that enables household electronics to see what’s around them. We then discuss Google Duplex, an AI designed to happily make reservations and appointments for you.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/26-Household-Electronics-That-See-and-Googles-Reservation-AI-e43ph9&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.economist.com/science-and-technology/2019/05/11/https://www.economist.com/science-and-technology/2019/05/11/household-electronics-are-undergoing-a-sensory-makeoverhousehold-electronics-are-undergoing-a-sensory-makeover&quot;&gt;The Economist: Household electronics are undergoing a sensory makeover&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2019/1/4/18168565/amazon-alexa-devices-how-many-sold-number-100-million-dave-limp&quot;&gt;The Verge: Amazon Says 100 Million Alexa Devices Have Been Sold — What’s Next?&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://gizmodo.com/the-terrible-truth-about-alexa-1834075404&quot;&gt;Gizmodo: The Terrible Truth About Alexa&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio&quot;&gt;Bloomberg: Amazon Workers Are Listening to What You Tell Alexa&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.gierad.com/projects/surfacesight/&quot;&gt;SurfaceSight&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=znNe4pMCsD4&quot;&gt;Google Duplex Demo&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2019/5/9/18538194/google-duplex-ai-restaurants-experiences-review-robocalls&quot;&gt;The Verge: One Year Later, Restaurants Are Still Confused By Google Duplex&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2019/5/7/18531195/google-duplex-web-update-car-rentals-movie-tickets-io-2019&quot;&gt;The Verge: Google is bringing Duplex to the web to help book car rentals and movie tickets&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.forbes.com/sites/tomtaulli/2019/04/21/what-you-need-to-know-about-chatbots/#29c56d444844&quot;&gt;Forbes: What You Need To Know About Chatbots&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/06/07/household-elec-google-duplex.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/06/07/household-elec-google-duplex.html</guid>
         
         
         <category>episode</category>
