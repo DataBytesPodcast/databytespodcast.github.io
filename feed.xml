@@ -5,9 +5,78 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Sep 2019 16:41:53 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Sep 2019 16:41:53 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Sep 2019 01:31:56 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Sep 2019 01:31:56 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Episode 39: Rolling in the Deep Patient</title>
+        <description>&lt;p&gt;We take a deep dive into the poster child for black-box machine learning methods, namely Deep Patient: an unsupervised learning method that uses denoising auto-encoders as the means for extracting salient features in electronic health records, which in turn can then be used to predict health outcomes. We do our best to explain what on earth the previous sentence meant.&lt;/p&gt;
+
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/srep26094&quot;&gt;Deep Patient article&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/09/06/deep-patient.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/09/06/deep-patient.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
+    
+      <item>
+        <title>Episode 38: The Misuse of Statistics in Court</title>
+        <description>&lt;p&gt;In this episode, we talk about how a statistical concept that you would learn about in an introductory course was misused in court.  The error led to dire consequences in the case of Sally Clark who was charged in the deaths of two of her children.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/38-The-Misuse-of-Statistics-in-Court-e4toep&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://web.archive.org/web/20110824151124/http://www.rss.org.uk/uploadedfiles/documentlibrary/744.pdf&quot;&gt;Royal Statistical Society concerned by issues raised in Sally Clark case&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.statslab.cam.ac.uk/~apd/SallyClark_report.doc&quot;&gt;Sally Clark Appeal by Professor A. P. Dawid&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2005.00077.x&quot;&gt;Article: Reflections on the cot death cases&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/pdf/10.5694/j.1326-5377.2004.tb06162.x&quot;&gt;MJA Article: Unexpected infant death: lessons from the Sally Clark case&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934658/&quot;&gt;Prosecutor’s Fallacy Paper&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/08/30/misuse-stats-court.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/30/misuse-stats-court.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
+    
+      <item>
+        <title>Episode 37: Susan Starts a New Job</title>
+        <description>&lt;p&gt;In this episode, we talk about Susan’s new job as a Data Scientist!  She recently transitioned from academia to industry and we discuss her experience with searching for positions, interviewing, and her first few weeks in her new role.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/37-Susan-Starts-a-New-Job-e4tojg&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/08/23/susan-new-job.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/23/susan-new-job.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 36: What's New in Machine Learning Startups</title>
@@ -224,126 +293,6 @@
         <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/07/05/temperature-gender.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/07/05/temperature-gender.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 29: Jeopardy! Meets Statistics</title>
-        <description>&lt;p&gt;Jeopardy! is a weeknightly televised trivia game show. In recent months, one player, James Holzhauer has taken the Jeopardy! fandom by storm with his unusual style of play and his long run of big wins. In this episode, we discuss how statistics can help explain his betting tactics, and we discuss how some other Jeopardy! players have used statistics to help up their game.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/29-Jeopardy--Meets-Statistics-e4ekv5&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.vox.com/culture/2019/6/3/18650485/jeopardy-james-holzhauer-loses-record-winnings&quot;&gt;James Holzhauer’s Jeopardy winning streak has come to an end&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.wired.com/story/jeopardy-record-james-holzhauer-strategy/&quot;&gt;Inside James Holzhauer’s Jeopardy!-dominating Strategy&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://cdr.lib.unc.edu/concern/parent/tb09j9193/file_sets/bz60d095h&quot;&gt;Emma Boettcher’s Master Thesis&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://futurism.com/jeopardy-emma-boettcher-ai-james-holzhauer&quot;&gt;We Found “Jeopardy!” Kingslayer Emma Boettcher’s Thesis on Data Mining&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://gawker.com/5860275/how-a-geek-cracked-the-jeopardy-code&quot;&gt;How a Geek Cracked the Jeopardy! Code&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/06/28/jeopardy.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/06/28/jeopardy.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 28: Facial Recognition Technology Update and Rating Trustworthiness of AI-Generated Airbnb Profiles</title>
-        <description>&lt;p&gt;In this episode, we discuss a number of miscellaneous news updates regarding facial recognition technology (concerning San Francisco, Amazon, and pandas!).  And then, we talk about how much we trust AI-generated profiles for Airbnb.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/28-Facial-Recognition-Technology-Update-and-Rating-Trustworthiness-of-AI-Generated-Airbnb-Profiles-e46bp8&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.salon.com/2019/05/21/san-franciscos-facial-recognition-ban-still-lets-corporations-spy-on-you/&quot;&gt;San Francisco’s facial recognition ban still lets corporations spy on you&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2018/12/06/how-amazon-rekognition-works-and-what-its-used-for.html&quot;&gt;Amazon’s facial recognition service is being used to scan mugshots, but it’s also used to track innocuous things like soccer balls&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2019/05/22/technology/amazon-climate-change-facial-recognition.html&quot;&gt;Amazon Investors Reject Proposals on Climate Change and Facial Recognition&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2019/05/25/amazon-facial-recognition-ban-won-just-2percent-of-shareholder-vote.html&quot;&gt;Amazon facial recognition ban won just 2% of shareholder vote&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2019/5/22/18635632/amazon-shareholders-vote-facial-recognition-climate-change-investors-employees&quot;&gt;Amazon shareholders vote down proposals on facial recognition and climate change&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://tech.cornell.edu/news/ai-generated-profiles-airbnb-users-prefer-a-human-touch/&quot;&gt;AI-generated profiles? Airbnb users prefer a human touch&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.mauricejakesch.com/pub/chi2019__ai_mc_camera_ready.pdf&quot;&gt;CHI 2019 Paper: AI-Mediated Communication: How the Perception that Profile Text was Written by AI Affects Trustworthiness&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/06/21/facial-recog-trustworthiness-airbnb.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/06/21/facial-recog-trustworthiness-airbnb.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 27: Does Uber/Lyft Help Or Hurt Traffic Congestion and Machine Learning Interpretability</title>
-        <description>&lt;p&gt;In this episode, we look at a study about whether ride-sharing services contribute to increased or decreased traffic congestion in San Francisco. We then discuss some strategies to build interpretable machine learning models.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/27-Does-UberLyft-Help-Or-Hurt-Traffic-Congestion-and-Machine-Learning-Interpretability-e4af56&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://advances.sciencemag.org/content/5/5/eaau2670/tab-pdf&quot;&gt;Science Advances article: Do transportation network companies decrease or increase congestion?&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.sfcta.org/sf-champ-modeling&quot;&gt;SF-CHAMP Modeling&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.kdnuggets.com/2018/03/gdpr-machine-learning-illegal.html&quot;&gt;KDNuggets.com: Will GDPR Make Machine Learning Illegal?&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://christophm.github.io/interpretable-ml-book/&quot;&gt;Interpretable Machine Learning free online textbook&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/MachineLearning/comments/7w46zv/p_lime_explaining_the_predictions_of_any_machine/&quot;&gt;Reddit.com: [P] Lime: Explaining the predictions of any machine learning classifier&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://uc-r.github.io/lime&quot;&gt;UC Business Analytics R Programming Guide: Visualizing ML Models with LIME&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1602.04938&quot;&gt;arXiv.org: “Why Should I Trust You?”: Explaining the Predictions of Any Classifier&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1705.07874&quot;&gt;arXiv.org: A Unified Approach to Interpreting Model Predictions&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/06/14/ride-sharing-ml-interpretability.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/06/14/ride-sharing-ml-interpretability.html</guid>
         
         
         <category>episode</category>
