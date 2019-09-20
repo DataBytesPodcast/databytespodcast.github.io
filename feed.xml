@@ -5,9 +5,86 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Sep 2019 16:49:22 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Sep 2019 16:49:22 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Sep 2019 23:58:33 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Sep 2019 23:58:33 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Episode 41: What to do with Outliers</title>
+        <description>&lt;p&gt;Guest Dylan O’Connell joins us today to talk about a recent surprising, but legitimate Democratic primary poll result done by Monmouth University. We discuss different perspectives on how to approach a data point that doesn’t fit in with the others.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/41-What-to-do-with-Outliers-e5dk9k&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_082619.pdf/&quot;&gt;Monmouth University Poll&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.realclearpolitics.com/epolls/2020/president/us/2020_democratic_presidential_nomination-6730.html&quot;&gt;RealClearPolitics&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/johnanzo/status/1166729666268454912?s=21&quot;&gt;Anzalone tweet #1&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/johnanzo/status/1166171181931589632&quot;&gt;Anzalone tweet #2&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/MonmouthPoll/status/1166720853477924870&quot;&gt;Monmouth University Statement&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://projects.fivethirtyeight.com/pollster-ratings/&quot;&gt;FiveThirtyEight.com Pollster Ratings&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/NateSilver538/status/1166780637149388803&quot;&gt;Nate Silver’s tweet on the poll&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.math.upenn.edu/~deturck/m170/wk4/lecture/case2.html&quot;&gt;1948 Presidential Election polling&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/09/20/outliers-polling.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/09/20/outliers-polling.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
+    
+      <item>
+        <title>Episode 40: Making a DIY ML-Controlled Cat Door</title>
+        <description>&lt;p&gt;Outdoor-cat owners know all too well the unpleasantries of dealing with what the cat dragged in. A self-proclaimed machine learning novice proves that you don’t need to be a pro to set up a smart cat door that prevents the cat from bringing prey into your home.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/40-Making-a-DIY-ML-Controlled-Cat-Door-e4toho&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bbc.com/news/technology-48825761&quot;&gt;bbc.com article: Cat flap uses AI to punish pet’s killer instincts&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/tldr/2019/6/30/19102430/amazon-engineer-ai-powered-catflap-prey-ben-hamm&quot;&gt;The Verge: An Amazon employee made an AI-powered cat flap to stop his cat from bringing home dead animals&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://igniteseattle.com/&quot;&gt;Ignite Seattle&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.aws.amazon.com/deeplens/latest/dg/what-is-deeplens.html&quot;&gt;AWS DeepLens&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/09/13/ml-cat-door.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/09/13/ml-cat-door.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 39: Rolling in the Deep Patient</title>
@@ -248,53 +325,6 @@
         <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/07/19/amazon-3d.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/07/19/amazon-3d.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 31: What Data Visualizations Do You Care About? It's Personal</title>
-        <description>&lt;p&gt;In this episode, we talk about how data are personal for those in a rural Pennsylvania community.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/31-What-Data-Visualizations-Do-You-Care-About--Its-Personal-e4ap0f&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d&quot;&gt;Data is Personal. What We Learned from 42 Interviews in Rural America.&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/1901.01920.pdf&quot;&gt;Research article: Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/07/12/data-personal.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/07/12/data-personal.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 30: Some Like It Hot -- What Gender Reveals About Our Temperature Preferences</title>
-        <description>&lt;p&gt;Word on the street is that women prefer warmer temperatures than men do. Researchers designed an experiment to investigate whether this is actually true, specifically, considering how men and women perform on various cognitive tasks under different temperature scenarios. In this episode, we dissect the study so you can judge whether you believe the results.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216362&quot;&gt;Plos One article: Battle for the thermostat: Gender and the effect of temperature on cognitive performance&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/07/05/temperature-gender.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/07/05/temperature-gender.html</guid>
         
         
         <category>episode</category>
