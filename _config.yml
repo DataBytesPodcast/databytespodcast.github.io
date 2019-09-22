@@ -2,6 +2,8 @@ title: DataBytes Podcast
 description: 
 author: 
 
+future: false
+
 baseurl: "/"
 url: "https://databytespodcast.github.io"
 

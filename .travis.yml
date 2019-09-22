@@ -1,17 +1,38 @@
 language: ruby
-cache: bundler
+# cache: bundler
+# branches:
+#   only:
+#   - master
+# script:
+#   - bundle exec jekyll build
+
+# deploy:
+#   provider: pages
+#   local-dir: ./_site
+#   target-branch: gh-pages
+#   skip-cleanup: true
+#   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+#   keep-history: true
+#   on:
+#     branch: master
+
+rvm:
+  - 2.4.4
+
+# Assume bundler is being used, therefore
+# the `install` step will run `bundle install` by default.
+script: chmod +x ./script/jekyll-rebuild.sh && ./script/jekyll-rebuild.sh
+exclude: [vendor]
+
+# branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master
-script:
-  - bundle exec jekyll build
+  - master     # test the master branch
 
-deploy:
-  provider: pages
-  local-dir: ./_site
-  target-branch: gh-pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep-history: true
-  on:
-    branch: master
+sudo: false # route your build to the container-based infrastructure for a faster build
+
+cache: bundler # caching bundler gem packages will speed up build
+
+# Optional: disable email notifications about the outcome of your builds
+notifications:
+  email: false
