@@ -21,8 +21,8 @@ bundle exec jekyll build
 
 # push empty commit
 cd _site
-git config user.email "your@email.com"
-git config user.name "Your_Username"
+git config user.email "swang87@gmail.com"
+git config user.name "swang87"
 git commit -a -m "rebuild pages" --allow-empty
 git push origin master
 
