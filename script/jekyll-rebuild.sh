@@ -17,12 +17,12 @@ mkdir _site
 git clone https://${GITHUB_TOKEN}@github.com/DataBytesPodcast/databytespodcast.github.io --branch master _site
 
 # build with Jekyll into "_site"
-# exec jekyll build
+exec jekyll build
 
 # push empty commit
 cd _site
-git config user.email "swang87@gmail.com"
-git config user.name "swang87"
+git config user.email "your@email.com"
+git config user.name "Your_Username"
 git commit -a -m "rebuild pages" --allow-empty
 git push origin master
 
