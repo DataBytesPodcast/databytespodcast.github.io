@@ -17,7 +17,7 @@ mkdir _site
 git clone https://${GITHUB_TOKEN}@github.com/DataBytesPodcast/databytespodcast.github.io --branch master _site
 
 # build with Jekyll into "_site"
-exec jekyll build
+bundle exec jekyll build
 
 # push empty commit
 cd _site
