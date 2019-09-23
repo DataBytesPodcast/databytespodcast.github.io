@@ -5,9 +5,22 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Sep 2019 22:28:01 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Sep 2019 22:28:01 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2019 16:50:14 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Sep 2019 16:50:14 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Episode 43x</title>
+        <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/09/23/test.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/09/23/test.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 41: What to do with Outliers</title>
@@ -286,45 +299,6 @@
         <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/07/26/post-hoc-power.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/07/26/post-hoc-power.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 32: Amazon's 3D Body Scan Study</title>
-        <description>&lt;p&gt;In this episode, we talk about Amazon’s 3D body scan study.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/32-Amazons-3D-Body-Scan-Study-e4dh1i&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://mashable.com/article/amazon-body-labs-image-scanning-study/&quot;&gt;Amazon is 3D-scanning people’s bodies in exchange for gift cards&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2019/5/23/18637369/amazon-body-labs-3d-scanning-study-new-york-volunteer-fashion&quot;&gt;Amazon wants to 3D-scan volunteers’ bodies for a $25 gift card&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.businessinsider.com/amazon-3d-body-scanning-for-clothes-2018-5&quot;&gt;Amazon is reportedly scanning people’s bodies so it can sell you clothes&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.wsj.com/articles/amazon-studies-body-sizes-to-get-that-perfect-clothing-fit-1525355115?tesla=y&quot;&gt;Amazon Wants to Know Your Waistline&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.economist.com/science-and-technology/2019/05/23/online-identification-is-getting-more-and-more-intrusive&quot;&gt;Online identification is getting more and more intrusive&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2019/6/11/18661595/facebook-study-app-monitor-phone-usage-pay&quot;&gt;Facebook will pay you to let it track what you do on your phone&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/07/19/amazon-3d.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/07/19/amazon-3d.html</guid>
         
         
         <category>episode</category>
