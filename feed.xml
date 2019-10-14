@@ -5,17 +5,51 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Sep 2019 16:50:14 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Sep 2019 16:50:14 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2019 22:19:33 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2019 22:19:33 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Episode 43x</title>
-        <description>&lt;p&gt;test&lt;/p&gt;
+        <title>Episode 43: To Google and Back</title>
+        <description>&lt;p&gt;In this episode, Professor Albert Y. Kim of Smith College describes his post-PhD journey, which included a stint at Google Adwords before academic posts at Reed College, Middlebury College, Amherst College, and Smith College.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/43-To-Google-and-Back-e5ofvi&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/09/23/test.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/09/23/test.html</guid>
+        <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/10/04/to-google-and-back.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/10/04/to-google-and-back.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
+    
+      <item>
+        <title>Episode 42: Black in the Box</title>
+        <description>&lt;p&gt;Dr. Derek Feng joins us again to discuss the two metrics by which we align all statistical/machine learning methods – interpretability versus predictive ability. In a world where black box methods reign supreme, what does learning mean?&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/42-Black-in-the-Box-e5i2p8&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Cooperative_Observer_Program&quot;&gt;Wikipedia: Cooperative Observer Program&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://foldingathome.org/&quot;&gt;Folding @ Home&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://deepmind.com/blog/article/alphafold&quot;&gt;DeepMind.com: Alpha Fold&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://onezero.medium.com/machine-learning-might-render-the-human-quest-for-knowledge-pointless-5425f8b00a45&quot;&gt;Medium.com: Machine Learning Widens the Gap Between Knowledge and Understanding&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/09/27/black-box.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/09/27/black-box.html</guid>
         
         
         <category>episode</category>
@@ -266,39 +300,6 @@
         <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/08/02/kids-digital-privacy.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/02/kids-digital-privacy.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 33: Statisticians Hate Post-Hoc Power</title>
-        <description>&lt;p&gt;Statistics is key to demonstrating the effectiveness of new advancements in science and medicine, but when statistical significance is not achieved, is post-hoc power a valid justification?&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/33-Statisticians-Hate-Post-Hoc-Power-e4ekpn&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.journalofsurgicalresearch.com/article/S0022-4804(19)30185-4/fulltext&quot;&gt;Journal of Surgical Research article: Is the Power Threshold of 0.8 Applicable to Surgical Science?—Empowering the Underpowered Study&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://retractionwatch.com/2019/06/19/statisticians-clamor-for-retraction-of-paper-by-harvard-researchers-they-say-uses-a-nonsense-statistic/&quot;&gt;RetractionWatch: Statisticians Clamor for Retraction of Paper by Harvard Researchers&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://daniellakens.blogspot.com/2014/12/observed-power-and-what-to-do-if-your.html&quot;&gt;Blogpost: Observed power, and what to do if your editor asks for post-hoc power analyses&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://lesslikely.com/statistics/observed-power-magic/&quot;&gt;Blogpost: Calculating Observed Power Is Just Transforming Noise&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/07/26/post-hoc-power.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/07/26/post-hoc-power.html</guid>
         
         
         <category>episode</category>
