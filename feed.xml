@@ -5,15 +5,37 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Oct 2019 22:19:33 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2019 22:19:33 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Oct 2019 02:12:27 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Oct 2019 02:12:27 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Episode 44: A Conversation with Jon Krohn</title>
+        <description>&lt;p&gt;We sit down with Dr. Jon Krohn to chat about his work as a Chief Data Scientist at untapt, his newly published bestseller “Deep Learning Illustrated”, and his teaching/research.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/44-A-Conversation-with-Jon-Krohn-e81bra&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.deeplearningillustrated.com/&quot;&gt;Deep Learning Illustrated website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/10/25/jon-krohn.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/10/25/jon-krohn.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 43: To Google and Back</title>
         <description>&lt;p&gt;In this episode, Professor Albert Y. Kim of Smith College describes his post-PhD journey, which included a stint at Google Adwords before academic posts at Reed College, Middlebury College, Amherst College, and Smith College.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/43-To-Google-and-Back-e5ofvi&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
 </description>
         <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/10/04/to-google-and-back.html</link>
@@ -262,44 +284,6 @@
         <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/08/09/voice-appearance.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/09/voice-appearance.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 34: Protecting Kids' Digital Privacy</title>
-        <description>&lt;p&gt;In this episode, we talk about protecting kids’ digital privacy.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/34-Protecting-Kids-Digital-Privacy-e4apu7&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.nbcnews.com/tech/tech-news/kid-browsing-company-says-its-artificial-intelligence-can-tell-n1009021&quot;&gt;Is that a kid browsing? This company says its artificial intelligence can tell&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.superawesome.com/&quot;&gt;SuperAwesome.com: The technology powering the kids digital media ecosystem&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.businessnewsdaily.com/10625-businesses-collecting-data.html&quot;&gt;How Businesses Are Collecting Data (And What They’re Doing With It)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375&quot;&gt;CA CCPA&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule&quot;&gt;Children’s Online Privacy Protection Rule (“COPPA”)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.unicef.org/media/media_102560.html&quot;&gt;UNICEF: More than 175,000 children go online for the first time every day, tapping into great opportunities, but facing grave risks&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/08/02/kids-digital-privacy.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/02/kids-digital-privacy.html</guid>
         
         
         <category>episode</category>

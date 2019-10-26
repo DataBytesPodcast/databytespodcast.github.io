@@ -5,15 +5,37 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Oct 2019 22:19:33 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2019 22:19:33 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Oct 2019 02:12:27 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Oct 2019 02:12:27 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Episode 44: A Conversation with Jon Krohn</title>
+        <description>&lt;p&gt;We sit down with Dr. Jon Krohn to chat about his work as a Chief Data Scientist at untapt, his newly published bestseller “Deep Learning Illustrated”, and his teaching/research.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/44-A-Conversation-with-Jon-Krohn-e81bra&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.deeplearningillustrated.com/&quot;&gt;Deep Learning Illustrated website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io/episode/2019/10/25/jon-krohn.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io/episode/2019/10/25/jon-krohn.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 43: To Google and Back</title>
         <description>&lt;p&gt;In this episode, Professor Albert Y. Kim of Smith College describes his post-PhD journey, which included a stint at Google Adwords before academic posts at Reed College, Middlebury College, Amherst College, and Smith College.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/43-To-Google-and-Back-e5ofvi&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
 </description>
         <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io/episode/2019/10/04/to-google-and-back.html</link>
