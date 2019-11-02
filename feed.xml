@@ -5,9 +5,56 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Oct 2019 02:12:27 +0000</pubDate>
-    <lastBuildDate>Sat, 26 Oct 2019 02:12:27 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2019 01:32:58 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2019 01:32:58 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Episode 45: Learning Publicly, with Private Data</title>
+        <description>&lt;p&gt;In this episode, Dr. Derek Feng discusses the general issue of data privacy in the age of big data, including topics of differential privacy and federated learning.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/45-Learning-Publicly--with-Private-Data-e8gfkg&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/cs/0610105.pdf&quot;&gt;Research article: Robust De-anonymization of Large Datasets&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://blog.cryptographyengineering.com/2016/06/15/what-is-differential-privacy/&quot;&gt;Blogpost: What is Differential Privacy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.apple.com/privacy/docs/Differential_Privacy_Overview.pdf&quot;&gt;Apple.com: Differential Privacy Overview&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.wired.com/2016/06/apples-differential-privacy-collecting-data/&quot;&gt;Wired.com: Apple’s Differential Privacy is About Collecting Your Data&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/1902.01046.pdf&quot;&gt;Research article: Towards Federated Learning At Scale: System Design&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://federated.withgoogle.com/&quot;&gt;Federated Learning with Google&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897&quot;&gt;Medium.com: Federated Learning: The Future of Distributed Machine Learning&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ai.googleblog.com/2017/04/federated-learning-collaborative.html&quot;&gt;Google AI Blog on Federated Learning&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/1812.02903.pdf&quot;&gt;Research Article: Applied Federated Learning: Improving Google Keyboard Query Suggestions&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/11/01/data-privacy.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/11/01/data-privacy.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 44: A Conversation with Jon Krohn</title>
@@ -252,38 +299,6 @@
         <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/08/16/ml-startups.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/16/ml-startups.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 35: You Look How You Sound</title>
-        <description>&lt;p&gt;Deep learning has been useful for lots of applications when it comes to prediction. Yet another is the use of a short sound clip of speech to predict the face of the speaker.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/35-Using-voice-to-predict-appearance-e4eksr&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.sciencealert.com/this-ai-tries-to-guess-what-you-look-like-based-on-your-voice&quot;&gt;This Creepy AI Predicts What You Look Like Based on Your Voice&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1905.09773&quot;&gt;Speech2Face paper: Speech2Face: Learning the Face Behind a Voice&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://speech2face.github.io/&quot;&gt;Speech2Face website: Learning the Face Behind a Voice&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://looking-to-listen.github.io/&quot;&gt;AVSpeech paper website&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/08/09/voice-appearance.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/09/voice-appearance.html</guid>
         
         
         <category>episode</category>
