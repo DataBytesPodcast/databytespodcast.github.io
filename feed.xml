@@ -5,9 +5,39 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Nov 2019 01:32:58 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2019 01:32:58 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Nov 2019 17:08:50 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Nov 2019 17:08:50 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Episode 46: Finding Your (Niche) Board Games</title>
+        <description>&lt;p&gt;In this episode, we discuss how two statisticians used data from BoardGameGeek.com to put together their own board game recommendation engine, specifically designed to stay away from mainstream recommendations.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/46-Finding-Your-Niche-Board-Games-e8smo8&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2019.01317.x&quot;&gt;Significance.com article: Mining the BoardGameGeek&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://trythesegames.com&quot;&gt;TryTheseGames&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Eurogame&quot;&gt;Eurogame Wikipedia Entry&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/11/08/board-games.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/11/08/board-games.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 45: Learning Publicly, with Private Data</title>
@@ -267,38 +297,6 @@
         <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/08/23/susan-new-job.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/23/susan-new-job.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 36: What's New in Machine Learning Startups</title>
-        <description>&lt;p&gt;In this episode, we talk about some machine learning startups to pay attention to this year.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/36-Whats-New-in-Machine-Learning-Startups-e4ekhj&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.forbes.com/sites/louiscolumbus/2019/05/27/25-machine-learning-startups-to-watch-in-2019/#538f835e3c0b&quot;&gt;25 Machine Learning Startups To Watch In 2019&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.prnewswire.com/news-releases/ablacon-inc-raises-21-5m-series-a-to-advance-ai-enabled-atrial-fibrillation-mapping-system-300840324.html&quot;&gt;Ablacon Raises $21.5M&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.startups.com/library/expert-advice/series-funding-a-b-c-d-e&quot;&gt;Startup funding, explained&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2019/05/21/people-ai-the-predictive-sales-startup-raises-60m-at-around-500m-valuation/&quot;&gt;People.ai, the predictive sales startup, raises $60M&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/08/16/ml-startups.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/16/ml-startups.html</guid>
         
         
         <category>episode</category>
