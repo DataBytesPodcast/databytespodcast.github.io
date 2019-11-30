@@ -5,9 +5,44 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Nov 2019 17:08:50 +0000</pubDate>
-    <lastBuildDate>Sat, 09 Nov 2019 17:08:50 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Nov 2019 19:51:42 +0000</pubDate>
+    <lastBuildDate>Sat, 30 Nov 2019 19:51:42 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Episode 47: Domoic Acid Testing -- A Crabshoot?</title>
+        <description>&lt;p&gt;Domoic acid has plagued shellfish and other wildlife along the Pacific coastline in recent years. Testing for domoic acid concentration in crabs on a regular basis has become important for determining when crabs and their viscera can be safely consumed. Unlike many other common hypothesis tests, the setup used for domoic acid testing is based on the sample maximum rather than the sample mean. In this episode, we critique the testing methodology.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/47-Domoic-Acid-Testing----A-Crabshoot-e991fc&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Domoic_acid&quot;&gt;Wikipedia.com: Domoic acid&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.sfchronicle.com/food/article/The-secret-Richmond-lab-where-Bay-Area-crab-14869631.php&quot;&gt;SF Chronicle: The secret Richmond lab where Bay Area crab season annually learns its fate&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdph.ca.gov/Programs/CEH/DFDCS/CDPH%20Document%20Library/FDB/FoodSafetyProgram/DomoicAcid/4.%20Crab%20DA%20Web%20Results%20July%201%202019%20to%20November%2020%202019.pdf&quot;&gt;California Department of Public Health: Domoic Acid Data for July-November 2019&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.kqed.org/news/10868506/acid-flashback-santa-cruz-bird-frenzy-hitchcock-and-a-biological-whodunit&quot;&gt;KQED News: Acid Flashback: Santa Cruz Bird Frenzy, Hitchcock and a Biological Whodunit&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;[]&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/11/30/crabbing-domoic-acid.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/11/30/crabbing-domoic-acid.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 46: Finding Your (Niche) Board Games</title>
@@ -282,21 +317,6 @@
         <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/08/30/misuse-stats-court.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/30/misuse-stats-court.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 37: Susan Starts a New Job</title>
-        <description>&lt;p&gt;In this episode, we talk about Susan’s new job as a Data Scientist!  She recently transitioned from academia to industry and we discuss her experience with searching for positions, interviewing, and her first few weeks in her new role.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/37-Susan-Starts-a-New-Job-e4tojg&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/08/23/susan-new-job.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/23/susan-new-job.html</guid>
         
         
         <category>episode</category>
