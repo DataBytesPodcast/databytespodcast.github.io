@@ -5,9 +5,44 @@
     <description></description>
     <link>https://databytespodcast.github.io/</link>
     <atom:link href="https://databytespodcast.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Nov 2019 19:51:42 +0000</pubDate>
-    <lastBuildDate>Sat, 30 Nov 2019 19:51:42 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jan 2020 05:16:26 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jan 2020 05:16:26 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Episode 48: Where Moneyball Meets Footy</title>
+        <description>&lt;p&gt;We’ve long heard about the waves that statistics has made in baseball. But what about soccer? In this episode, we summarize a few applications of statistics in European football (or American soccer).&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/48-Where-Moneyball-Meets-Footy-e9h18p&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://fivethirtyeight.com/features/down-at-halftime-in-a-soccer-game-use-your-subs/&quot;&gt;FiveThirtyEight.com: Down At Halftime In A Soccer Game? Use Your Subs.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.espn.com/soccer/english-premier-league/23/blog/post/3733383/premier-league-teams-rarely-use-all-their-substitutes-why-dont-they-take-advantage-of-such-fresh-legs&quot;&gt;ESPN.com blog: Premier League teams rarely use all their substitutes. Why don’t they take advantage of such fresh legs?&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2019/05/22/magazine/soccer-data-liverpool.html&quot;&gt;NYT Magazine: How Data (and Some Breathtaking Soccer) Brought Liverpool to the Cusp of Glory&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://freakonomics.com/podcast/london-live/&quot;&gt;Freakonomics Podcast: Can Britain Get Its “Great” Back? (Ep. 393)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.independent.co.uk/sport/football/transfers/takumi-minamino-liverpool-transfer-news-salzburg-melissa-reddy-latest-a9243881.html&quot;&gt;The Independent: Takumi Minamino: How RB Salzburg scouted the perfect Liverpool player&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+        <link>https://databytespodcast.github.io//episode/2019/12/13/footy-moneyball.html</link>
+        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/12/13/footy-moneyball.html</guid>
+        
+        
+        <category>episode</category>
+        
+      </item>
     
       <item>
         <title>Episode 47: Domoic Acid Testing -- A Crabshoot?</title>
@@ -15,7 +50,7 @@
 
 &lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/47-Domoic-Acid-Testing----A-Crabshoot-e991fc&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Sources:&lt;/p&gt;
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -29,9 +64,6 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.kqed.org/news/10868506/acid-flashback-santa-cruz-bird-frenzy-hitchcock-and-a-biological-whodunit&quot;&gt;KQED News: Acid Flashback: Santa Cruz Bird Frenzy, Hitchcock and a Biological Whodunit&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;[]&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -50,7 +82,7 @@
 
 &lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/46-Finding-Your-Niche-Board-Games-e8smo8&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Sources:&lt;/p&gt;
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -80,7 +112,7 @@
 
 &lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/45-Learning-Publicly--with-Private-Data-e8gfkg&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Sources:&lt;/p&gt;
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -127,7 +159,7 @@
 
 &lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/44-A-Conversation-with-Jon-Krohn-e81bra&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Links:&lt;/p&gt;
+&lt;h2 id=&quot;link&quot;&gt;Link&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.deeplearningillustrated.com/&quot;&gt;Deep Learning Illustrated website&lt;/a&gt;&lt;/li&gt;
@@ -282,41 +314,6 @@
         <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
         <link>https://databytespodcast.github.io//episode/2019/09/06/deep-patient.html</link>
         <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/09/06/deep-patient.html</guid>
-        
-        
-        <category>episode</category>
-        
-      </item>
-    
-      <item>
-        <title>Episode 38: The Misuse of Statistics in Court</title>
-        <description>&lt;p&gt;In this episode, we talk about how a statistical concept that you would learn about in an introductory course was misused in court.  The error led to dire consequences in the case of Sally Clark who was charged in the deaths of two of her children.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/databytes/embed/episodes/38-The-Misuse-of-Statistics-in-Court-e4toep&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://web.archive.org/web/20110824151124/http://www.rss.org.uk/uploadedfiles/documentlibrary/744.pdf&quot;&gt;Royal Statistical Society concerned by issues raised in Sally Clark case&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.statslab.cam.ac.uk/~apd/SallyClark_report.doc&quot;&gt;Sally Clark Appeal by Professor A. P. Dawid&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2005.00077.x&quot;&gt;Article: Reflections on the cot death cases&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/pdf/10.5694/j.1326-5377.2004.tb06162.x&quot;&gt;MJA Article: Unexpected infant death: lessons from the Sally Clark case&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934658/&quot;&gt;Prosecutor’s Fallacy Paper&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-        <link>https://databytespodcast.github.io//episode/2019/08/30/misuse-stats-court.html</link>
-        <guid isPermaLink="true">https://databytespodcast.github.io//episode/2019/08/30/misuse-stats-court.html</guid>
         
         
         <category>episode</category>
