@@ -10,7 +10,7 @@ Domoic acid has plagued shellfish and other wildlife along the Pacific coastline
 
 <iframe src="https://anchor.fm/databytes/embed/episodes/47-Domoic-Acid-Testing----A-Crabshoot-e991fc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Sources:
+## Sources
 
 * [Wikipedia.com: Domoic acid](https://en.wikipedia.org/wiki/Domoic_acid)
 
@@ -19,5 +19,3 @@ Sources:
 * [California Department of Public Health: Domoic Acid Data for July-November 2019](https://www.cdph.ca.gov/Programs/CEH/DFDCS/CDPH%20Document%20Library/FDB/FoodSafetyProgram/DomoicAcid/4.%20Crab%20DA%20Web%20Results%20July%201%202019%20to%20November%2020%202019.pdf)
 
 * [KQED News: Acid Flashback: Santa Cruz Bird Frenzy, Hitchcock and a Biological Whodunit](https://www.kqed.org/news/10868506/acid-flashback-santa-cruz-bird-frenzy-hitchcock-and-a-biological-whodunit)
-
-* []

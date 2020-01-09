@@ -10,7 +10,7 @@ In this episode, we discuss how two statisticians used data from BoardGameGeek.c
 
 <iframe src="https://anchor.fm/databytes/embed/episodes/46-Finding-Your-Niche-Board-Games-e8smo8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Sources:
+## Sources
 
 * [Significance.com article: Mining the BoardGameGeek](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2019.01317.x)
 

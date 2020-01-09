@@ -10,7 +10,7 @@ In this episode, Dr. Derek Feng discusses the general issue of data privacy in t
 
 <iframe src="https://anchor.fm/databytes/embed/episodes/45-Learning-Publicly--with-Private-Data-e8gfkg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Sources:
+## Sources
 
 * [Research article: Robust De-anonymization of Large Datasets](https://arxiv.org/pdf/cs/0610105.pdf)
 
