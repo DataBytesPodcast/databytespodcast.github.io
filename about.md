@@ -22,7 +22,6 @@ DataBytes is a podcast about statistics and data science in our daily lives. It 
    University of North Carolina at Chapel Hill,
    then spent three years in the Department of
    Statistics at Carnegie Mellon University. Jessi currently serves on the Executive Committee of the New England Statistical Society and is the Vice-President of its NextGen Committee. Jessi is also the co-Founder and past-Chair of the American Statistical Association Astrostatistics Interest Group, a council member of the International Astrostatistics Association and co-Chair of the affiliated Cosmostatistics Initiative, and a Committee Member of the American Astronomical Society Working Group on Astroinformatics and Astrostatistics.  She is an Editor for Astronomy and Computing.</p>
-<a href="mailto:jessica.cisewski@yale.edu"  class="btn btn-primary">Email</a>
 <a href="https://jessicisewskikehe.github.io/"  class="btn btn-primary">Website</a>
 </div>
 </div>
@@ -35,9 +34,8 @@ DataBytes is a podcast about statistics and data science in our daily lives. It 
              src="../static/img/susanwang.jpg" alt="" width="240">
 </div>
   <div class="col-sm-8">
-<p>Susan Wang is a Lecturer in the Department of Statistics and Data Science at Yale University. She completed her Ph.D. in Statistics in 2014 from Yale, and taught at Amherst College for two years before returning to teach at Yale. Susan currently serves as an Editor of the Journal of Statistics Education, Datasets and Stories section and is currently on the Executive Committee of the Connecticut Chapter of the American Statistical Association. She also serves on the NextGen Committee of the New England Statistical Society.
+<p>Susan Wang is a Data Scientist at Google (YouTube). She previously served as Lecturer at Yale University and Amherst College. She completed her Ph.D. in Statistics in 2014 from Yale. Prior to pursuing her Ph.D., Susan worked at a weather derivatives startup and as a retirement actuary at Mercer (and subsequently co-authored an actuarial exam ​textbook​ for the 4th actuarial exam). Susan also has 7 years+ of experience consulting on statistics-related projects with small-to-medium sized data-oriented companies and statistics textbook publishers.
 </p>
- <a href="mailto:xiaofei.wang@yale.edu" class="btn btn-primary">Email</a>
  <a href="http://xiaofei-wang.com/" class="btn btn-primary">Website</a>
  </div>
 </div>
